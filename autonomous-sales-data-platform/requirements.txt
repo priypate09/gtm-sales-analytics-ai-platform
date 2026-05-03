@@ -1,0 +1,4 @@
+duckdb
+kaggle
+pyyaml
+python-dotenv

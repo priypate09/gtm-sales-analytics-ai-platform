@@ -1,0 +1,7 @@
+csv_path: data/SaaS-Sales.csv
+duckdb_path: data/sales.duckdb
+raw_table_name: raw_sales
+
+# Kaggle source — agent download if file not present on local machine
+kaggle_dataset: nnthanh101/aws-saas-sales
+kaggle_filename: SaaS-Sales.csv
