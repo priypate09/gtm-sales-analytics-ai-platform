@@ -1,0 +1,7 @@
+autonomous_sales_data_platform:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "{{ env_var('DUCKDB_PATH') }}"
+      schema: main

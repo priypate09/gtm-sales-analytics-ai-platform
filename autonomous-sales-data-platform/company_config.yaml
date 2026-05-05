@@ -2,6 +2,19 @@ csv_path: data/SaaS-Sales.csv
 duckdb_path: data/sales.duckdb
 raw_table_name: raw_sales
 
+dq_min_row_count: 1000
+dq_sales_column: Sales
+dq_segment_column: Segment
+dq_sales_max_null_rate: 0.05
+dq_segment_allowed:
+  - Enterprise
+  - SMB
+  - Strategic
+
+dbt_project_dir: dbt_project
+dbt_profiles_dir: dbt_project
+dbt_target: dev
+
 # Kaggle source — agent download if file not present on local machine
 kaggle_dataset: nnthanh101/aws-saas-sales
 kaggle_filename: SaaS-Sales.csv

@@ -2,3 +2,4 @@ duckdb
 kaggle
 pyyaml
 python-dotenv
+dbt-duckdb

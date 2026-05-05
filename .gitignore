@@ -1,3 +1,17 @@
+# Cursor and Claude — never commit
+.cursorrules
+CLAUDE.md
+.claude/
+.cursor/
+
+# Ignore all data and outputs
+autonomous-sales-data-platform/data/*
+autonomous-sales-data-platform/outputs/*
+
+# But keep these sample files
+!autonomous-sales-data-platform/data/sample_data.csv
+!autonomous-sales-data-platform/outputs/sample_report.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
