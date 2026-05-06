@@ -2,7 +2,7 @@
 
 select
     segment                               as segment,
-    count(*)                                as total_orders,
+    count(*)                              as total_orders,
     sum(cast(sales as double))            as total_sales,
     sum(cast(profit as double))           as total_profit,
     avg(cast(sales as double))            as avg_deal_size,
