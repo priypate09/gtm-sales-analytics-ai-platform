@@ -15,6 +15,9 @@ dbt_project_dir: dbt_project
 dbt_profiles_dir: dbt_project
 dbt_target: dev
 
+analytics_report_path: outputs/sales_analytics_report.md
+openai_model: gpt-4o-mini
+
 # Kaggle source — agent download if file not present on local machine
 kaggle_dataset: nnthanh101/aws-saas-sales
 kaggle_filename: SaaS-Sales.csv
