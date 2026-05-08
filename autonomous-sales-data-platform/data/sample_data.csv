@@ -1,0 +1,501 @@
+Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,Customer,Customer ID,Industry,Segment,Product,License,Sales,Quantity,Discount,Profit
+1,EMEA-2022-152156,11/9/2022,20221109,Nathan Bell,Ireland,Dublin,EMEA,UKIR,Chevron,1017,Energy,SMB,Marketing Suite,16GRM07R1K,261.96,2,0,41.9136
+2,EMEA-2022-152156,11/9/2022,20221109,Nathan Bell,Ireland,Dublin,EMEA,UKIR,Chevron,1017,Energy,SMB,FinanceHub,QLIW57KZUV,731.94,3,0,219.582
+3,AMER-2022-138688,6/13/2022,20220613,Deirdre Bailey,United States,New York City,AMER,NAMER,Phillips 66,1056,Energy,Strategic,FinanceHub,JI6BVL70HQ,14.62,2,0,6.8714
+4,EMEA-2021-108966,10/11/2021,20211011,Zoe Hodges,Germany,Stuttgart,EMEA,EU-WEST,Royal Dutch Shell,1031,Energy,SMB,ContactMatcher,DE9GJKGD44,957.5775,5,0.45,-383.031
+5,EMEA-2021-108966,10/11/2021,20211011,Zoe Hodges,Germany,Stuttgart,EMEA,EU-WEST,Royal Dutch Shell,1031,Energy,SMB,Marketing Suite - Gold,OIF7NY23WD,22.368,2,0.2,2.5164
+6,AMER-2020-115812,6/9/2020,20200609,Thomas Hodges,United States,New York City,AMER,NAMER,BNP Paribas,1065,Finance,SMB,SaaS Connector Pack,8RM88WFOAE,48.86,7,0,14.1694
+7,AMER-2020-115812,6/9/2020,20200609,Thomas Hodges,United States,New York City,AMER,NAMER,BNP Paribas,1065,Finance,SMB,ChatBot Plugin,4SYTVM0746,7.28,4,0,1.9656
+8,AMER-2020-115812,6/9/2020,20200609,Thomas Hodges,United States,New York City,AMER,NAMER,BNP Paribas,1065,Finance,SMB,Site Analytics,07842ES7DY,907.152,6,0.2,90.7152
+9,AMER-2020-115812,6/9/2020,20200609,Thomas Hodges,United States,New York City,AMER,NAMER,BNP Paribas,1065,Finance,SMB,ContactMatcher,XPBOBXWXA3,18.504,3,0.2,5.7825
+10,AMER-2020-115812,6/9/2020,20200609,Thomas Hodges,United States,New York City,AMER,NAMER,BNP Paribas,1065,Finance,SMB,OneView,71J8P9Z1P0,114.9,5,0,34.47
+11,AMER-2020-115812,6/9/2020,20200609,Thomas Hodges,United States,New York City,AMER,NAMER,BNP Paribas,1065,Finance,SMB,ContactMatcher,43NZ37VE2D,1706.184,9,0.2,85.3092
+12,AMER-2020-115812,6/9/2020,20200609,Thomas Hodges,United States,New York City,AMER,NAMER,BNP Paribas,1065,Finance,SMB,Site Analytics,JG14MOU94R,911.424,4,0.2,68.3568
+13,EMEA-2023-114412,4/16/2023,20230416,Adrian Hunter,Sweden,Stockholm,EMEA,NOR,Engie,1062,Energy,SMB,Support,FE5QJBIUN1,15.552,3,0.2,5.4432
+14,AMER-2022-161389,12/6/2022,20221206,Adrian Abraham,Canada,Toronto,AMER,NAMER,Microsoft,1066,Tech,SMB,ContactMatcher,COK66F8IC1,407.976,3,0.2,132.5922
+15,APJ-2021-118983,11/22/2021,20211122,Emily Morrison,Japan,Saitama,APJ,JAPN,Pfizer,1074,Healthcare,Enterprise,OneView,D8FGC56NNX,68.81,5,0.8,-123.858
+16,APJ-2021-118983,11/22/2021,20211122,Emily Morrison,Japan,Saitama,APJ,JAPN,Pfizer,1074,Healthcare,Enterprise,ContactMatcher,NRKT5R1A1G,2.544,3,0.8,-3.816
+17,EMEA-2020-105893,11/11/2020,20201111,Claire Welch,Italy,Naples,EMEA,EU,Toyota Motor,1087,Manufacturing,SMB,Marketing Suite - Gold,K5XHYWZ1OV,665.88,6,0,13.3176
+18,EMEA-2020-167164,5/13/2020,20200513,Carol Campbell,Turkey,Ankara,EMEA,MEA,Home Depot,1047,Retail,SMB,Marketing Suite - Gold,LWWKLPY4AU,55.5,2,0,9.99
+19,AMER-2020-143336,8/27/2020,20200827,Blake Hughes,United States,Los Angeles,AMER,NAMER,Wells Fargo,1099,Finance,SMB,ChatBot Plugin,ZYL9KDTY68,8.56,2,0,2.4824
+20,AMER-2020-143336,8/27/2020,20200827,Blake Hughes,United States,Los Angeles,AMER,NAMER,Wells Fargo,1099,Finance,SMB,Site Analytics,I54O29EW1T,213.48,3,0.2,16.011
+21,AMER-2020-143336,8/27/2020,20200827,Blake Hughes,United States,Los Angeles,AMER,NAMER,Wells Fargo,1099,Finance,SMB,ContactMatcher,E3TF1V9DE8,22.72,4,0.2,7.384
+22,AMER-2022-137330,12/10/2022,20221210,Melanie Sharp,Costa Rica,San José,AMER,LATAM,Carrefour,1048,Retail,Strategic,ChatBot Plugin,B83G92QX65,19.46,7,0,5.0596
+23,AMER-2022-137330,12/10/2022,20221210,Melanie Sharp,Costa Rica,San José,AMER,LATAM,Carrefour,1048,Retail,Strategic,OneView,VWDIYAB44Z,60.34,7,0,15.6884
+24,EMEA-2023-156909,7/17/2023,20230717,Luke Bower,France,Paris,EMEA,EU-WEST,Costco Wholesale,1025,Retail,SMB,FinanceHub,AJOASBK55N,71.372,2,0.3,-1.0196
+25,EMEA-2021-106320,9/25/2021,20210925,Jonathan Ferguson,Turkey,Istanbul,EMEA,MEA,McKesson,1063,Consumer Products,SMB,ContactMatcher,P1I8X35CUZ,1044.63,3,0,240.2649
+26,AMER-2022-121755,1/16/2022,20220116,Sam Parsons,United States,New York City,AMER,NAMER,Siemens,1043,Manufacturing,SMB,ContactMatcher,NRCR8EBL62,11.648,2,0.2,4.2224
+27,AMER-2022-121755,1/16/2022,20220116,Sam Parsons,United States,New York City,AMER,NAMER,Siemens,1043,Manufacturing,SMB,Data Smasher,PV9U9D3A6O,90.57,3,0,11.7741
+28,EMEA-2021-150630,9/17/2021,20210917,Neil Gill,France,Paris,EMEA,EU-WEST,Intel,1051,Tech,SMB,Marketing Suite,F8G07TWQ17,3083.43,7,0.5,-1665.0522
+29,EMEA-2021-150630,9/17/2021,20210917,Neil Gill,France,Paris,EMEA,EU-WEST,Intel,1051,Tech,SMB,ContactMatcher,BGL4P1U2CZ,9.618,2,0.7,-7.0532
+30,EMEA-2021-150630,9/17/2021,20210917,Neil Gill,France,Paris,EMEA,EU-WEST,Intel,1051,Tech,SMB,SaaS Connector Pack,B5H6S070N8,124.2,3,0.2,15.525
+31,EMEA-2021-150630,9/17/2021,20210917,Neil Gill,France,Paris,EMEA,EU-WEST,Intel,1051,Tech,SMB,SaaS Connector Pack - Gold,D9635UBJOG,3.264,2,0.2,1.1016
+32,EMEA-2021-150630,9/17/2021,20210917,Neil Gill,France,Paris,EMEA,EU-WEST,Intel,1051,Tech,SMB,ChatBot Plugin,6SQI2HAZ4C,86.304,6,0.2,9.7092
+33,EMEA-2021-150630,9/17/2021,20210917,Neil Gill,France,Paris,EMEA,EU-WEST,Intel,1051,Tech,SMB,ContactMatcher,GPQ0TDTGIM,6.858,6,0.7,-5.715
+34,EMEA-2021-150630,9/17/2021,20210917,Neil Gill,France,Paris,EMEA,EU-WEST,Intel,1051,Tech,SMB,ChatBot Plugin,4YZZHFC212,15.76,2,0.2,3.546
+35,APJ-2023-107727,10/20/2023,20231020,Amelia Campbell,Japan,Tokyo,APJ,JAPN,Glencore,1083,Misc,Enterprise,Support,77YXBOVGDH,29.472,3,0.2,9.9468
+36,APJ-2022-117590,12/9/2022,20221209,Chloe Short,Japan,Aichi,APJ,JAPN,Procter & Gamble,1077,Consumer Products,Strategic,Site Analytics,GCT4GPUBVT,1097.544,7,0.2,123.4737
+37,APJ-2022-117590,12/9/2022,20221209,Chloe Short,Japan,Aichi,APJ,JAPN,Procter & Gamble,1077,Consumer Products,Strategic,SaaS Connector Pack,TKN9K1JO1D,190.92,5,0.6,-147.963
+38,APJ-2021-117415,12/27/2021,20211227,Jasmine Metcalfe,Japan,Tokyo,APJ,JAPN,Banco Santander,1101,Finance,Enterprise,SaaS Connector Pack - Gold,2F0NIUM5X9,113.328,9,0.2,35.415
+39,APJ-2021-117415,12/27/2021,20211227,Jasmine Metcalfe,Japan,Tokyo,APJ,JAPN,Banco Santander,1101,Finance,Enterprise,Marketing Suite,FBXEM82WEZ,532.3992,3,0.32,-46.9764
+40,APJ-2021-117415,12/27/2021,20211227,Jasmine Metcalfe,Japan,Tokyo,APJ,JAPN,Banco Santander,1101,Finance,Enterprise,FinanceHub,TS9MS0FQVU,212.058,3,0.3,-15.147
+41,APJ-2021-117415,12/27/2021,20211227,Jasmine Metcalfe,Japan,Tokyo,APJ,JAPN,Banco Santander,1101,Finance,Enterprise,Site Analytics,HDJMRDRWK6,371.168,4,0.2,41.7564
+42,APJ-2023-120999,9/11/2023,20230911,Karen Mathis,Australia,Wollongong,APJ,ANZ,Pemex,1058,Energy,Strategic,Site Analytics,QINRKET2EK,147.168,4,0.2,16.5564
+43,AMER-2022-101343,7/18/2022,20220718,Dylan Dickens,United States,New York City,AMER,NAMER,Siemens,1043,Manufacturing,Strategic,Marketing Suite - Gold,DFHNNSTX0P,77.88,2,0,3.894
+44,EMEA-2023-139619,9/20/2023,20230920,Sophie Lewis,Germany,Hanover,EMEA,EU-WEST,Samsung Electronics,1015,Tech,Strategic,Marketing Suite - Gold,616XTGD7Y3,95.616,2,0.2,9.5616
+45,EMEA-2022-118255,3/12/2022,20220312,Gavin Mitchell,Luxembourg,Luxembourg,EMEA,EU-WEST,Sony,1028,Tech,Strategic,Data Smasher,F4GWWGL9KR,45.98,2,0,19.7714
+46,EMEA-2022-118255,3/12/2022,20220312,Gavin Mitchell,Luxembourg,Luxembourg,EMEA,EU-WEST,Sony,1028,Tech,Strategic,ContactMatcher,JFCUNTQD5P,17.46,2,0,8.2062
+47,AMER-2020-146703,10/20/2020,20201020,Katherine Dowd,Brazil,Salvador,AMER,LATAM,Morgan Stanley,1068,Finance,SMB,Marketing Suite - Gold,S2GUIRDRRI,211.96,4,0,8.4784
+48,APJ-2022-169194,6/21/2022,20220621,Harry Brown,Philippines,Davao City,APJ,APAC,Bank of America Corp.,1011,Finance,SMB,Data Smasher,2L5WUVH1UW,45,3,0,4.95
+49,APJ-2022-169194,6/21/2022,20220621,Harry Brown,Philippines,Davao City,APJ,APAC,Bank of America Corp.,1011,Finance,SMB,Site Analytics,O0QZ4DQ2DW,21.8,2,0,6.104
+50,APJ-2021-115742,4/18/2021,20210418,Brian Dickens,India,Kolkata,APJ,IND,Siemens,1043,Manufacturing,SMB,ContactMatcher,4A8Q6U643K,38.22,6,0,17.9634
+51,APJ-2021-115742,4/18/2021,20210418,Brian Dickens,India,Kolkata,APJ,IND,Siemens,1043,Manufacturing,SMB,FinanceHub,N3660I16OB,75.18,6,0,35.3346
+52,APJ-2021-115742,4/18/2021,20210418,Brian Dickens,India,Kolkata,APJ,IND,Siemens,1043,Manufacturing,SMB,SaaS Connector Pack,DU3DC8HDNW,6.16,2,0,2.9568
+53,APJ-2021-115742,4/18/2021,20210418,Brian Dickens,India,Kolkata,APJ,IND,Siemens,1043,Manufacturing,SMB,FinanceHub,SCMV1FUA1Z,89.99,1,0,17.0981
+54,EMEA-2022-105816,12/12/2022,20221212,Joseph Newman,United Kingdom,London,EMEA,UKIR,Tesco,1059,Retail,Strategic,Storage,5JTHBK78DZ,15.26,7,0,6.2566
+55,EMEA-2022-105816,12/12/2022,20221212,Joseph Newman,United Kingdom,London,EMEA,UKIR,Tesco,1059,Retail,Strategic,Site Analytics,JPNWB3X2PG,1029.95,5,0,298.6855
+56,EMEA-2022-111682,6/18/2022,20220618,Nicola Howard,United Kingdom,Brighton,EMEA,UKIR,Aviva,1006,Finance,SMB,Marketing Suite - Gold,RI8MDZ0Y3A,208.56,6,0,52.14
+57,EMEA-2022-111682,6/18/2022,20220618,Nicola Howard,United Kingdom,Brighton,EMEA,UKIR,Aviva,1006,Finance,SMB,Support,TA8D5XDFPN,32.4,5,0,15.552
+58,EMEA-2022-111682,6/18/2022,20220618,Nicola Howard,United Kingdom,Brighton,EMEA,UKIR,Aviva,1006,Finance,SMB,FinanceHub,9QD1V31VWF,319.41,5,0.1,7.098
+59,EMEA-2022-111682,6/18/2022,20220618,Nicola Howard,United Kingdom,Brighton,EMEA,UKIR,Aviva,1006,Finance,SMB,Support,NKEOT3DP5L,14.56,2,0,6.9888
+60,EMEA-2022-111682,6/18/2022,20220618,Nicola Howard,United Kingdom,Brighton,EMEA,UKIR,Aviva,1006,Finance,SMB,Data Smasher,I8M069JA80,30,2,0,3.3
+61,EMEA-2022-111682,6/18/2022,20220618,Nicola Howard,United Kingdom,Brighton,EMEA,UKIR,Aviva,1006,Finance,SMB,ContactMatcher,3N1DY2AIMD,48.48,4,0.2,16.362
+62,EMEA-2022-111682,6/18/2022,20220618,Nicola Howard,United Kingdom,Brighton,EMEA,UKIR,Aviva,1006,Finance,SMB,ChatBot Plugin,MBZM7LCSK4,1.68,1,0,0.84
+63,AMER-2021-135545,11/24/2021,20211124,Stewart Wilson,United States,New York City,AMER,NAMER,Mondelez International,1067,Consumer Products,SMB,Data Smasher,LMJYGCZAFV,13.98,2,0,6.1512
+64,AMER-2021-135545,11/24/2021,20211124,Stewart Wilson,United States,New York City,AMER,NAMER,Mondelez International,1067,Consumer Products,SMB,ContactMatcher,MVEQDJNPR2,25.824,6,0.2,9.3612
+65,AMER-2021-135545,11/24/2021,20211124,Stewart Wilson,United States,New York City,AMER,NAMER,Mondelez International,1067,Consumer Products,SMB,Support,OLS0NNZ15B,146.73,3,0,68.9631
+66,AMER-2021-135545,11/24/2021,20211124,Stewart Wilson,United States,New York City,AMER,NAMER,Mondelez International,1067,Consumer Products,SMB,SaaS Connector Pack,84GUTTZTC0,79.76,4,0,22.3328
+67,APJ-2021-164175,4/30/2021,20210430,Eric McLean,Australia,Sydney,APJ,ANZ,Abbott Laboratories,1001,Healthcare,Enterprise,FinanceHub,6QHQUNX985,213.115,5,0.3,-15.2225
+68,AMER-2020-106376,12/5/2020,20201205,Leah Clarkson,Chile,Puente Alto,AMER,LATAM,Morgan Stanley,1068,Finance,Strategic,ChatBot Plugin,91D0JN8T6U,1113.024,8,0.2,111.3024
+69,AMER-2020-106376,12/5/2020,20201205,Leah Clarkson,Chile,Puente Alto,AMER,LATAM,Morgan Stanley,1068,Finance,Strategic,Site Analytics,6NQZXRTE33,167.968,4,0.2,62.988
+70,EMEA-2022-119823,6/5/2022,20220605,Alison Davidson,Spain,Madrid,EMEA,EU-WEST,Fannie Mae,1035,Finance,SMB,Support,JH2K4261IC,75.88,2,0,35.6636
+71,EMEA-2022-106075,9/19/2022,20220919,Sophie Vance,United Kingdom,London,EMEA,UKIR,Aetna,1002,Healthcare,SMB,ContactMatcher,5MAZAYKQ5U,4.616,1,0.2,1.731
+72,AMER-2023-114440,9/15/2023,20230915,Neil Gill,Brazil,Rio de Janeiro,AMER,LATAM,Intel,1051,Tech,SMB,Support,K4O1D2NXHZ,19.05,3,0,8.763
+73,EMEA-2021-134026,4/26/2021,20210426,Anne Lee,South Africa,Cape Town,EMEA,MEA,Oracle,1072,Tech,SMB,FinanceHub,NPQNQFYUUU,831.936,8,0.2,-114.3912
+74,EMEA-2021-134026,4/26/2021,20210426,Anne Lee,South Africa,Cape Town,EMEA,MEA,Oracle,1072,Tech,SMB,SaaS Connector Pack,D0Z9FZR0JL,97.04,2,0.2,1.213
+75,EMEA-2021-134026,4/26/2021,20210426,Anne Lee,South Africa,Cape Town,EMEA,MEA,Oracle,1072,Tech,SMB,Marketing Suite - Gold,X15ND79M8Q,72.784,1,0.2,-18.196
+76,APJ-2023-118038,12/10/2023,20231210,Maria Dyer,Japan,Tokyo,APJ,JAPN,Nissan Motor,1098,Transportation,Strategic,ContactMatcher,A4VC3VGTLE,1.248,3,0.8,-1.9344
+77,APJ-2023-118038,12/10/2023,20231210,Maria Dyer,Japan,Tokyo,APJ,JAPN,Nissan Motor,1098,Transportation,Strategic,SaaS Connector Pack,IR30G9I4WJ,9.708,3,0.6,-5.8248
+78,APJ-2023-118038,12/10/2023,20231210,Maria Dyer,Japan,Tokyo,APJ,JAPN,Nissan Motor,1098,Transportation,Strategic,Marketing Suite - Gold,PGTVTGM7XI,27.24,3,0.2,2.724
+79,APJ-2020-147606,11/26/2020,20201126,Anne Lee,Japan,Tokyo,APJ,JAPN,Oracle,1072,Tech,SMB,SaaS Connector Pack,JQHP8C8VXP,19.3,5,0.6,-14.475
+80,EMEA-2022-127208,6/13/2022,20220613,Julia Ellison,Portugal,Lisboa,EMEA,EU-WEST,Tyson Foods,1088,Consumer Products,Strategic,OneView,1I3JIURUQR,208.16,1,0,56.2032
+81,EMEA-2022-127208,6/13/2022,20220613,Julia Ellison,Portugal,Lisboa,EMEA,EU-WEST,Tyson Foods,1088,Consumer Products,Strategic,ContactMatcher,0UHOHNAAAD,16.74,3,0,8.0352
+82,AMER-2020-139451,10/12/2020,20201012,Gordon McLean,United States,Los Angeles,AMER,NAMER,Verizon Communications,1094,Communications,SMB,ChatBot Plugin,920M0N09EE,14.9,5,0,4.172
+83,AMER-2020-139451,10/12/2020,20201012,Gordon McLean,United States,Los Angeles,AMER,NAMER,Verizon Communications,1094,Communications,SMB,Marketing Suite - Gold,9SVF10L0F3,21.39,1,0,6.2031
+84,EMEA-2021-149734,9/3/2021,20210903,Jessica Buckland,Sweden,Uppsala,EMEA,NOR,Itochu,1032,Finance,Strategic,SaaS Connector Pack - Gold,CFUHIDO1WY,200.984,7,0.2,62.8075
+85,APJ-2023-119662,11/14/2023,20231114,Bernadette Nolan,Australia,Sydney,APJ,ANZ,Royal Dutch Shell,1031,Energy,Enterprise,Marketing Suite - Gold,CUL2MB77E0,230.376,3,0.2,-48.9549
+86,AMER-2023-140088,5/29/2023,20230529,Katherine Dowd,Colombia,Bogotá,AMER,LATAM,Morgan Stanley,1068,Finance,SMB,FinanceHub,RBNGNEEYS9,301.96,2,0,33.2156
+87,EMEA-2023-155558,10/27/2023,20231027,Sonia Ince,Luxembourg,Luxembourg,EMEA,EU-WEST,Daimler,1052,Transportation,SMB,Data Smasher,W731G6G61K,19.99,1,0,6.7966
+88,EMEA-2023-155558,10/27/2023,20231027,Sonia Ince,Luxembourg,Luxembourg,EMEA,EU-WEST,Daimler,1052,Transportation,SMB,FinanceHub,A3HQUY156G,6.16,2,0,2.9568
+89,APJ-2022-159695,4/6/2022,20220406,William Lewis,Japan,Tokyo,APJ,JAPN,Fannie Mae,1035,Finance,Enterprise,Marketing Suite - Gold,45JXXNYX5W,158.368,7,0.2,13.8572
+90,AMER-2022-109806,9/18/2022,20220918,Melanie Young,United States,New York City,AMER,NAMER,Daimler,1052,Transportation,Strategic,ChatBot Plugin,AX50KL6AG9,20.1,3,0,6.633
+91,AMER-2022-109806,9/18/2022,20220918,Melanie Young,United States,New York City,AMER,NAMER,Daimler,1052,Transportation,Strategic,Site Analytics,S4CEY2GSVW,73.584,2,0.2,8.2782
+92,AMER-2022-109806,9/18/2022,20220918,Melanie Young,United States,New York City,AMER,NAMER,Daimler,1052,Transportation,Strategic,Support,V86OBN8J1U,6.48,1,0,3.1104
+93,EMEA-2021-149587,1/31/2021,20210131,Edward Oliver,Luxembourg,Luxembourg,EMEA,EU-WEST,Morgan Stanley,1068,Finance,SMB,Support,XJEFE2O3YF,12.96,2,0,6.2208
+94,EMEA-2021-149587,1/31/2021,20210131,Edward Oliver,Luxembourg,Luxembourg,EMEA,EU-WEST,Morgan Stanley,1068,Finance,SMB,SaaS Connector Pack,5XEHT10HDW,53.34,3,0,16.5354
+95,EMEA-2021-149587,1/31/2021,20210131,Edward Oliver,Luxembourg,Luxembourg,EMEA,EU-WEST,Morgan Stanley,1068,Finance,SMB,ContactMatcher,U40N63E6AK,32.96,2,0,16.1504
+96,EMEA-2023-109484,11/7/2023,20231107,Peter Quinn,Belgium,Brussels,EMEA,EU-WEST,Walgreens,1095,Retail,Enterprise,ContactMatcher,VK1TWXDWUR,5.682,1,0.7,-3.788
+97,EMEA-2023-161018,11/10/2023,20231110,Max Marshall,United Kingdom,London,EMEA,UKIR,Boeing,1014,Manufacturing,Enterprise,SaaS Connector Pack,UFEXZDF5TK,96.53,7,0,40.5426
+98,AMER-2023-157833,6/18/2023,20230618,Jan Watson,United States,Los Angeles,AMER,NAMER,Valero Energy,1093,Energy,SMB,ContactMatcher,GJFN2RJA9U,51.312,3,0.2,17.9592
+99,EMEA-2022-149223,9/7/2022,20220907,Carol Ball,Luxembourg,Luxembourg,EMEA,EU-WEST,Nestle,1089,Consumer Products,Strategic,OneView,PFLFDN3SOU,77.88,6,0,22.5852
+100,APJ-2022-158568,8/30/2022,20220830,Gavin Walsh,Australia,Sydney,APJ,ANZ,Philip Morris International,1075,Consumer Products,Enterprise,Support,2CWM52X1X9,64.624,7,0.2,22.6184
+101,APJ-2022-158568,8/30/2022,20220830,Gavin Walsh,Australia,Sydney,APJ,ANZ,Philip Morris International,1075,Consumer Products,Enterprise,Data Smasher,LW1M6UDC4B,95.976,3,0.2,-10.7973
+102,APJ-2022-158568,8/30/2022,20220830,Gavin Walsh,Australia,Sydney,APJ,ANZ,Philip Morris International,1075,Consumer Products,Enterprise,ContactMatcher,WCITXGLF0J,1.788,3,0.8,-3.0396
+103,EMEA-2022-129903,12/2/2022,20221202,Penelope Peake,Luxembourg,Luxembourg,EMEA,EU-WEST,Trafigura Group,1100,Finance,SMB,Support,45EAEXTILE,23.92,4,0,11.7208
+104,EMEA-2021-156867,11/13/2021,20211113,Amy Scott,Russia,Moscow,EMEA,EU-EAST,Walmart,1096,Retail,SMB,Data Smasher,EV59Z98WXW,238.896,6,0.2,-26.8758
+105,EMEA-2021-156867,11/13/2021,20211113,Amy Scott,Russia,Moscow,EMEA,EU-EAST,Walmart,1096,Retail,SMB,SaaS Connector Pack,YR7I08I1K4,102.36,3,0.2,-3.8385
+106,EMEA-2021-156867,11/13/2021,20211113,Amy Scott,Russia,Moscow,EMEA,EU-EAST,Walmart,1096,Retail,SMB,ContactMatcher,W01T1PXXK7,36.882,3,0.7,-25.8174
+107,EMEA-2023-119004,11/24/2023,20231124,Carl Jackson,Sweden,Stockholm,EMEA,NOR,Cisco Systems,1019,Tech,SMB,Data Smasher,6D89G3BGGH,74.112,8,0.2,17.6016
+108,EMEA-2023-119004,11/24/2023,20231124,Carl Jackson,Sweden,Stockholm,EMEA,NOR,Cisco Systems,1019,Tech,SMB,Site Analytics,ECNQ9AS54S,27.992,1,0.2,2.0994
+109,EMEA-2023-119004,11/24/2023,20231124,Carl Jackson,Sweden,Stockholm,EMEA,NOR,Cisco Systems,1019,Tech,SMB,ChatBot Plugin,D0H5JTRD3R,3.304,1,0.2,1.0738
+110,APJ-2021-129476,10/15/2021,20211015,Joe Wallace,Australia,Canberra,APJ,ANZ,Nissan Motor,1098,Transportation,Enterprise,Data Smasher,OG63K8FFP9,339.96,5,0.2,67.992
+111,EMEA-2023-146780,12/26/2023,20231226,Luke Mills,United Kingdom,London,EMEA,UKIR,Prudential Financial,1078,Finance,Strategic,SaaS Connector Pack,E5KT4VQ59T,41.96,2,0,10.9096
+112,EMEA-2022-128867,11/4/2022,20221104,Alexandra Dyer,Netherlands,The Hague,EMEA,EU-WEST,Walmart,1096,Retail,SMB,ChatBot Plugin,FDKOX22CWX,75.96,2,0,22.788
+113,EMEA-2022-128867,11/4/2022,20221104,Alexandra Dyer,Netherlands,The Hague,EMEA,EU-WEST,Walmart,1096,Retail,SMB,ContactMatcher,OAF6MA4XZ7,27.24,6,0,13.3476
+114,AMER-2020-115259,8/25/2020,20200825,Rebecca Dickens,Mexico,Mexico City,AMER,LATAM,Amazon,1004,Tech,SMB,Storage,1DRXSUGWY6,40.096,14,0.2,14.5348
+115,AMER-2020-115259,8/25/2020,20200825,Rebecca Dickens,Mexico,Mexico City,AMER,LATAM,Amazon,1004,Tech,SMB,SaaS Connector Pack - Gold,U9IXLQYDG8,4.72,2,0.2,1.652
+116,AMER-2020-115259,8/25/2020,20200825,Rebecca Dickens,Mexico,Mexico City,AMER,LATAM,Amazon,1004,Tech,SMB,Support,NGH6JD32CX,23.976,3,0.2,7.4925
+117,AMER-2020-115259,8/25/2020,20200825,Rebecca Dickens,Mexico,Mexico City,AMER,LATAM,Amazon,1004,Tech,SMB,SaaS Connector Pack - Gold,QHG92H9NGL,130.464,6,0.2,44.0316
+118,AMER-2021-110457,3/2/2021,20210302,Audrey Hardacre,Canada,Toronto,AMER,NAMER,Trafigura Group,1100,Finance,SMB,ContactMatcher,EHVU0FM6IP,787.53,3,0,165.3813
+119,EMEA-2021-136476,4/5/2021,20210405,Jennifer Dowd,South Africa,Cape Town,EMEA,MEA,Gazprom,1027,Energy,Strategic,ContactMatcher,VKTELEXOAJ,157.794,1,0.7,-115.7156
+120,APJ-2022-103730,6/13/2022,20220613,Natalie Sanderson,Philippines,Manila,APJ,APAC,Aetna,1002,Healthcare,SMB,SaaS Connector Pack,YWZAV09L95,47.04,3,0,18.3456
+121,APJ-2022-103730,6/13/2022,20220613,Natalie Sanderson,Philippines,Manila,APJ,APAC,Aetna,1002,Healthcare,SMB,ContactMatcher,6HDH2X5C4Q,30.84,4,0,13.878
+122,APJ-2022-103730,6/13/2022,20220613,Natalie Sanderson,Philippines,Manila,APJ,APAC,Aetna,1002,Healthcare,SMB,Marketing Suite - Gold,UFK94J59ZU,226.56,6,0,63.4368
+123,APJ-2022-103730,6/13/2022,20220613,Natalie Sanderson,Philippines,Manila,APJ,APAC,Aetna,1002,Healthcare,SMB,SaaS Connector Pack - Gold,ESTJDHFQQJ,115.02,9,0,51.759
+124,APJ-2022-103730,6/13/2022,20220613,Natalie Sanderson,Philippines,Manila,APJ,APAC,Aetna,1002,Healthcare,SMB,Site Analytics,10H4K5XYCK,68.04,7,0,19.7316
+125,APJ-2020-152030,12/26/2020,20201226,Samantha Rampling,Japan,Tokyo,APJ,JAPN,FedEx,1036,Transportation,Enterprise,FinanceHub,CL5Z5BO4AX,600.558,3,0.3,-8.5794
+126,APJ-2020-134614,9/20/2020,20200920,Sally Berry,Australia,Geelong,APJ,ANZ,Tesco,1059,Retail,SMB,ContactMatcher,NR9RLNIDDN,617.7,6,0.5,-407.682
+127,AMER-2023-107272,11/6/2023,20231106,Anthony Clark,Chile,Santiago,AMER,LATAM,Honda Motor,1045,Manufacturing,SMB,ContactMatcher,VQ46SD57ZS,2.388,2,0.7,-1.8308
+128,AMER-2023-107272,11/6/2023,20231106,Anthony Clark,Chile,Santiago,AMER,LATAM,Honda Motor,1045,Manufacturing,SMB,Marketing Suite - Gold,D0E36MWJEW,243.992,7,0.2,30.499
+129,AMER-2022-125969,11/7/2022,20221107,Victor Short,United States,New York City,AMER,NAMER,Prudential Financial,1078,Finance,Enterprise,FinanceHub,JJPL720VAS,81.424,2,0.2,-9.1602
+130,AMER-2022-125969,11/7/2022,20221107,Victor Short,United States,New York City,AMER,NAMER,Prudential Financial,1078,Finance,Enterprise,SaaS Connector Pack,8YKVWCUJ4E,238.56,3,0,26.2416
+131,AMER-2023-164147,2/3/2023,20230203,Austin Newman,Mexico,Mexico City,AMER,LATAM,Banco Santander,1101,Finance,Strategic,Site Analytics,6JGGI7ZZ6I,59.97,5,0.4,-11.994
+132,AMER-2023-164147,2/3/2023,20230203,Austin Newman,Mexico,Mexico City,AMER,LATAM,Banco Santander,1101,Finance,Strategic,Support,EDMREQV8TS,78.304,2,0.2,29.364
+133,AMER-2023-164147,2/3/2023,20230203,Austin Newman,Mexico,Mexico City,AMER,LATAM,Banco Santander,1101,Finance,Strategic,Storage,7WHCO2BFB0,21.456,9,0.2,6.9732
+134,AMER-2022-145583,10/14/2022,20221014,Rose Scott,United States,Aurora,AMER,NAMER,CVS Health,1026,Retail,SMB,Support,PWIULJAE51,20.04,3,0,9.6192
+135,AMER-2022-145583,10/14/2022,20221014,Rose Scott,United States,Aurora,AMER,NAMER,CVS Health,1026,Retail,SMB,Support,QBAIA88519,35.44,1,0,16.6568
+136,AMER-2022-145583,10/14/2022,20221014,Rose Scott,United States,Aurora,AMER,NAMER,CVS Health,1026,Retail,SMB,ChatBot Plugin,QIH1351ZN7,11.52,4,0,3.456
+137,AMER-2022-145583,10/14/2022,20221014,Rose Scott,United States,Aurora,AMER,NAMER,CVS Health,1026,Retail,SMB,Storage,FLGFDQI1YW,4.02,2,0,1.9698
+138,AMER-2022-145583,10/14/2022,20221014,Rose Scott,United States,Aurora,AMER,NAMER,CVS Health,1026,Retail,SMB,ContactMatcher,QVAV46CVJD,76.176,3,0.2,26.6616
+139,AMER-2022-145583,10/14/2022,20221014,Rose Scott,United States,Aurora,AMER,NAMER,CVS Health,1026,Retail,SMB,Support,2MI0QUU74R,65.88,6,0,18.4464
+140,AMER-2022-145583,10/14/2022,20221014,Rose Scott,United States,Aurora,AMER,NAMER,CVS Health,1026,Retail,SMB,SaaS Connector Pack,6LLWK12W7K,43.12,14,0,20.6976
+141,EMEA-2022-110366,9/6/2022,20220906,Tim Morrison,France,Paris,EMEA,EU-WEST,General Motors,1041,Manufacturing,Strategic,SaaS Connector Pack,V01FLYWRJH,82.8,2,0.2,10.35
+142,AMER-2023-106180,9/19/2023,20230919,Harry Murray,United States,Los Angeles,AMER,NAMER,State Farm Insurance Cos.,1082,Finance,Strategic,ChatBot Plugin,CDKV85SBFW,8.82,3,0,2.3814
+143,AMER-2023-106180,9/19/2023,20230919,Harry Murray,United States,Los Angeles,AMER,NAMER,State Farm Insurance Cos.,1082,Finance,Strategic,SaaS Connector Pack - Gold,9DJHDYHRR3,10.86,3,0,5.1042
+144,AMER-2023-106180,9/19/2023,20230919,Harry Murray,United States,Los Angeles,AMER,NAMER,State Farm Insurance Cos.,1082,Finance,Strategic,Support,ZSB20RNZ0A,143.7,3,0,68.976
+145,EMEA-2023-155376,12/23/2023,20231223,Dylan Dowd,Poland,Warsaw,EMEA,EU-WEST,Comcast,1022,Communications,SMB,OneView,67FK6GLSC1,839.43,3,0,218.2518
+146,AMER-2021-110744,9/7/2021,20210907,Angela Parsons,United States,Newark,AMER,NAMER,AmerisourceBergen,1007,Healthcare,SMB,Marketing Suite - Gold,G4R1FFNPGO,671.93,7,0,20.1579
+147,AMER-2020-110072,10/22/2020,20201022,Lisa Oliver,Mexico,Monterrey,AMER,LATAM,Toyota Motor,1087,Manufacturing,Enterprise,SaaS Connector Pack,BHODKJ9L3G,93.888,4,0.2,12.9096
+148,EMEA-2022-114489,12/6/2022,20221206,Joseph Duncan,Italy,Rome,EMEA,EU,Walmart,1096,Retail,Strategic,Site Analytics,NKEP466WY8,384.45,11,0,103.8015
+149,EMEA-2022-114489,12/6/2022,20221206,Joseph Duncan,Italy,Rome,EMEA,EU,Walmart,1096,Retail,Strategic,Site Analytics,KAMRWAU3DC,149.97,3,0,5.9988
+150,EMEA-2022-114489,12/6/2022,20221206,Joseph Duncan,Italy,Rome,EMEA,EU,Walmart,1096,Retail,Strategic,FinanceHub,DA45FHG7IC,1951.84,8,0,585.552
+151,EMEA-2022-114489,12/6/2022,20221206,Joseph Duncan,Italy,Rome,EMEA,EU,Walmart,1096,Retail,Strategic,ContactMatcher,1E78QQ5K6O,171.55,5,0,80.6285
+152,AMER-2022-158834,3/14/2022,20220314,Paul MacDonald,Chile,Puente Alto,AMER,LATAM,Johnson & Johnson,1055,Healthcare,Enterprise,OneView,J54ZE9BY16,157.92,5,0.2,17.766
+153,AMER-2022-158834,3/14/2022,20220314,Paul MacDonald,Chile,Puente Alto,AMER,LATAM,Johnson & Johnson,1055,Healthcare,Enterprise,Site Analytics,0FXOEDG6KC,203.184,2,0.2,15.2388
+154,AMER-2021-124919,5/31/2021,20210531,Gordon Graham,United States,Chicago,AMER,NAMER,Engie,1062,Energy,Strategic,Support,S92H6S89SR,58.38,7,0,26.271
+155,AMER-2021-124919,5/31/2021,20210531,Gordon Graham,United States,Chicago,AMER,NAMER,Engie,1062,Energy,Strategic,Support,VDD4JQGM6P,105.52,4,0,48.5392
+156,AMER-2021-124919,5/31/2021,20210531,Gordon Graham,United States,Chicago,AMER,NAMER,Engie,1062,Energy,Strategic,Marketing Suite - Gold,O0V9LVLHM9,80.88,6,0,21.0288
+157,AMER-2021-118948,5/28/2021,20210528,Sean Bower,Canada,Toronto,AMER,NAMER,HonHai Precision Industry,1033,Tech,Enterprise,ChatBot Plugin,DTGE25IIR8,6.63,3,0,1.7901
+158,AMER-2020-104269,3/1/2020,20200301,Anthony Sanderson,Canada,Toronto,AMER,NAMER,American Express,1005,Finance,SMB,FinanceHub,TJX5D1WJAN,457.568,2,0.2,51.4764
+159,APJ-2022-114104,11/21/2022,20221121,Stewart Marshall,Singapore,Singapore,APJ,APAC,Daimler,1052,Transportation,SMB,FinanceHub,BK3X5F0PUA,14.62,2,0,6.8714
+160,APJ-2022-114104,11/21/2022,20221121,Stewart Marshall,Singapore,Singapore,APJ,APAC,Daimler,1052,Transportation,SMB,Site Analytics,J25V5NH84Z,944.93,7,0,236.2325
+161,AMER-2022-162733,5/12/2022,20220512,Joanne Carr,United States,New York City,AMER,NAMER,J.P. Morgan Chase & Co.,1054,Finance,SMB,Support,LG6VGH3BOI,5.98,1,0,2.691
+162,EMEA-2021-119697,12/28/2021,20211228,Angela Davies,France,Paris,EMEA,EU-WEST,Kroger,1057,Retail,SMB,Data Smasher,5F3WHT5RA1,54.384,2,0.2,1.3596
+163,APJ-2022-154508,11/17/2022,20221117,William Alsop,New Zealand,Wellington,APJ,ANZ,Mondelez International,1067,Consumer Products,SMB,SaaS Connector Pack - Gold,IMKAY1XFND,28.4,5,0,13.348
+164,AMER-2022-113817,11/8/2022,20221108,Owen Watson,Canada,Toronto,AMER,NAMER,Volkswagen,1046,Manufacturing,SMB,ContactMatcher,TFQC77D8N3,27.68,2,0.2,9.688
+165,APJ-2020-139892,9/8/2020,20200908,Melanie Davidson,Japan,Osaka,APJ,JAPN,Nissan Motor,1098,Transportation,SMB,ChatBot Plugin,A4ICDCT3PN,9.936,3,0.2,2.7324
+166,APJ-2020-139892,9/8/2020,20200908,Melanie Davidson,Japan,Osaka,APJ,JAPN,Nissan Motor,1098,Transportation,SMB,Big Ol Database,SKNAWPG4VV,8159.952,8,0.4,-1359.992
+167,APJ-2020-139892,9/8/2020,20200908,Melanie Davidson,Japan,Osaka,APJ,JAPN,Nissan Motor,1098,Transportation,SMB,Marketing Suite - Gold,SEXCB4230J,275.928,3,0.2,-58.6347
+168,APJ-2020-139892,9/8/2020,20200908,Melanie Davidson,Japan,Osaka,APJ,JAPN,Nissan Motor,1098,Transportation,SMB,FinanceHub,HJ54J056IV,1740.06,9,0.3,-24.858
+169,APJ-2020-139892,9/8/2020,20200908,Melanie Davidson,Japan,Osaka,APJ,JAPN,Nissan Motor,1098,Transportation,SMB,ChatBot Plugin,CFBWJVG2BK,32.064,6,0.2,6.8136
+170,APJ-2020-139892,9/8/2020,20200908,Melanie Davidson,Japan,Osaka,APJ,JAPN,Nissan Motor,1098,Transportation,SMB,OneView,J7LMIXWBED,177.98,5,0.8,-453.849
+171,APJ-2020-139892,9/8/2020,20200908,Melanie Davidson,Japan,Osaka,APJ,JAPN,Nissan Motor,1098,Transportation,SMB,Site Analytics,DVK6SPA4L5,143.976,3,0.2,8.9985
+172,AMER-2020-118962,8/5/2020,20200805,Warren Forsyth,United States,New York City,AMER,NAMER,Chevron,1017,Energy,SMB,Support,KXGXCS33MA,20.94,3,0,9.8418
+173,AMER-2020-118962,8/5/2020,20200805,Warren Forsyth,United States,New York City,AMER,NAMER,Chevron,1017,Energy,SMB,Support,C15MBHGL0V,110.96,2,0,53.2608
+174,AMER-2020-118962,8/5/2020,20200805,Warren Forsyth,United States,New York City,AMER,NAMER,Chevron,1017,Energy,SMB,FinanceHub,2IIYIRAN77,340.144,7,0.2,21.259
+175,APJ-2020-100853,9/14/2020,20200914,Gabrielle Ogden,Australia,Sydney,APJ,ANZ,Royal Dutch Shell,1031,Energy,Strategic,OneView,BTUYY86TIA,52.448,2,0.8,-131.12
+176,APJ-2020-100853,9/14/2020,20200914,Gabrielle Ogden,Australia,Sydney,APJ,ANZ,Royal Dutch Shell,1031,Energy,Strategic,FinanceHub,XDWUW8RSHO,20.16,4,0.2,6.552
+177,APJ-2023-152366,4/22/2023,20230422,Justin Randall,Japan,Tokyo,APJ,JAPN,Wells Fargo,1099,Finance,SMB,OneView,E5I8NPOZ23,97.264,4,0.8,-243.16
+178,AMER-2021-101511,11/21/2021,20211121,Anne Lee,Mexico,Monterrey,AMER,LATAM,Oracle,1072,Tech,SMB,FinanceHub,4LUEG1NV67,396.802,7,0.3,-11.3372
+179,AMER-2021-101511,11/21/2021,20211121,Anne Lee,Mexico,Monterrey,AMER,LATAM,Oracle,1072,Tech,SMB,Support,BDOF6TD87A,15.88,5,0.2,-3.7715
+180,EMEA-2021-137225,12/15/2021,20211215,Jack Graham,United Kingdom,London,EMEA,UKIR,Microsoft,1066,Tech,Enterprise,ChatBot Plugin,EIA2KSQB01,3.28,1,0,1.4104
+181,APJ-2020-166191,12/5/2020,20201205,Sophie Henderson,Australia,Melbourne,APJ,ANZ,Merck,1064,Healthcare,Strategic,Marketing Suite - Gold,XYUSCHN0YH,24.816,2,0.2,1.8612
+182,APJ-2020-166191,12/5/2020,20201205,Sophie Henderson,Australia,Melbourne,APJ,ANZ,Merck,1064,Healthcare,Strategic,Data Smasher,CDSZP4EX56,408.744,7,0.2,76.6395
+183,EMEA-2020-158274,11/19/2020,20201119,Brian Short,Czech Republic,Prague,EMEA,EU-EAST,Merck,1064,Healthcare,Enterprise,Site Analytics,9ZGSKXMP33,503.96,4,0,131.0296
+184,EMEA-2020-158274,11/19/2020,20201119,Brian Short,Czech Republic,Prague,EMEA,EU-EAST,Merck,1064,Healthcare,Enterprise,Site Analytics,7LN8FFMCQN,149.95,5,0,41.986
+185,EMEA-2020-158274,11/19/2020,20201119,Brian Short,Czech Republic,Prague,EMEA,EU-EAST,Merck,1064,Healthcare,Enterprise,Data Smasher,9BP0PZ49A6,29,2,0,7.25
+186,EMEA-2022-105018,11/29/2022,20221129,Samantha Lawrence,Saudi Arabia,Riyadh,EMEA,MEA,J.P. Morgan Chase & Co.,1054,Finance,SMB,ContactMatcher,VIVST6IECE,7.16,2,0,3.4368
+187,AMER-2020-123260,8/26/2020,20200826,Una Hudson,United States,Raleigh,AMER,NAMER,AT&T,1010,Communications,Enterprise,Data Smasher,60NLL1G4W3,176.8,8,0,22.984
+188,APJ-2022-157000,7/17/2022,20220717,Kimberly North,Japan,Tokyo,APJ,JAPN,Carrefour,1048,Retail,Strategic,Marketing Suite - Gold,YAJHZP6TYE,37.224,3,0.2,3.7224
+189,APJ-2022-157000,7/17/2022,20220717,Kimberly North,Japan,Saitama,APJ,JAPN,Carrefour,1048,Retail,Strategic,Support,RO9E64T0VF,20.016,3,0.2,6.255
+190,EMEA-2021-102281,10/12/2021,20211012,Dylan Ogden,United Kingdom,London,EMEA,UKIR,HonHai Precision Industry,1033,Tech,Enterprise,Marketing Suite,7LL8W4OBLM,899.136,4,0.2,112.392
+191,EMEA-2021-102281,10/12/2021,20211012,Dylan Ogden,United Kingdom,London,EMEA,UKIR,HonHai Precision Industry,1033,Tech,Enterprise,Site Analytics,6BI7IE0TFH,71.76,6,0,20.0928
+192,EMEA-2021-102281,10/12/2021,20211012,Dylan Ogden,United Kingdom,London,EMEA,UKIR,HonHai Precision Industry,1033,Tech,Enterprise,Support,QY481QSIUX,51.84,8,0,24.8832
+193,EMEA-2021-102281,10/12/2021,20211012,Dylan Ogden,United Kingdom,London,EMEA,UKIR,HonHai Precision Industry,1033,Tech,Enterprise,Marketing Suite,L0NREOWV2Y,626.352,3,0.2,46.9764
+194,EMEA-2021-102281,10/12/2021,20211012,Dylan Ogden,United Kingdom,London,EMEA,UKIR,HonHai Precision Industry,1033,Tech,Enterprise,ChatBot Plugin,CQ58E3SHEY,19.9,5,0,6.567
+195,AMER-2021-131457,10/31/2021,20211031,Jonathan Clark,United States,Providence,AMER,NAMER,Allstate,1003,Finance,Strategic,SaaS Connector Pack - Gold,03NGWSRFCP,14.28,7,0,6.7116
+196,AMER-2020-140004,3/21/2020,20200321,Kevin Vaughan,Mexico,Mexico City,AMER,LATAM,Tyson Foods,1088,Consumer Products,SMB,ChatBot Plugin,FNBDSUKN38,7.408,2,0.2,1.2038
+197,AMER-2020-140004,3/21/2020,20200321,Kevin Vaughan,Mexico,Mexico City,AMER,LATAM,Tyson Foods,1088,Consumer Products,SMB,ChatBot Plugin,YDSSPKI1I2,6.048,3,0.2,1.5876
+198,AMER-2023-107720,11/7/2023,20231107,Madeleine Smith,Argentina,Córdoba,AMER,LATAM,BMW,1039,Manufacturing,Enterprise,Marketing Suite - Gold,HVCAY62Q3B,46.26,3,0,12.0276
+199,EMEA-2023-124303,7/7/2023,20230707,Diana Ince,France,Paris,EMEA,EU-WEST,Humana,1049,Healthcare,Strategic,ContactMatcher,YST0N15YFB,2.946,2,0.7,-2.2586
+200,EMEA-2023-124303,7/7/2023,20230707,Diana Ince,France,Paris,EMEA,EU-WEST,Humana,1049,Healthcare,Strategic,Support,9BA74E75KZ,16.056,3,0.2,5.8203
+201,AMER-2023-105074,6/25/2023,20230625,Tracey Knox,Mexico,Guadalajara,AMER,LATAM,Gazprom,1027,Energy,SMB,Support,WMPYGW9GUM,21.744,3,0.2,6.795
+202,EMEA-2020-133690,8/3/2020,20200803,Michelle McLean,Russia,Moscow,EMEA,EU-EAST,Johnson & Johnson,1055,Healthcare,SMB,ContactMatcher,ME0EJQS2AL,218.75,2,0.5,-161.875
+203,EMEA-2020-133690,8/3/2020,20200803,Michelle McLean,Russia,Moscow,EMEA,EU-EAST,Johnson & Johnson,1055,Healthcare,SMB,OneView,W10QUN44Q0,2.6,1,0.2,0.2925
+204,APJ-2023-116701,12/18/2023,20231218,Diana Bell,Japan,Aichi,APJ,JAPN,Sprint Nextel,1081,Communications,SMB,OneView,TRYXBPE9IT,66.284,2,0.8,-178.9668
+205,EMEA-2023-126382,6/4/2023,20230604,Jan Clark,South Africa,Cape Town,EMEA,MEA,Samsung Electronics,1015,Tech,Strategic,SaaS Connector Pack,4JNB5H5I6P,35.168,7,0.2,9.6712
+206,AMER-2023-108329,12/10/2023,20231210,Pippa Smith,United States,Oklahoma City,AMER,NAMER,Johnson & Johnson,1055,Healthcare,SMB,Site Analytics,MAJOAVO5S2,444.768,4,0.2,44.4768
+207,AMER-2023-135860,12/2/2023,20231202,Rebecca Wilson,Brazil,Rio de Janeiro,AMER,LATAM,Morgan Stanley,1068,Finance,SMB,Marketing Suite - Gold,21Q2C6A2U2,83.92,4,0,5.8744
+208,AMER-2023-135860,12/2/2023,20231202,Rebecca Wilson,Brazil,Rio de Janeiro,AMER,LATAM,Morgan Stanley,1068,Finance,SMB,Site Analytics,ESRJ5V8B4Y,131.98,2,0,35.6346
+209,AMER-2023-135860,12/2/2023,20231202,Rebecca Wilson,Brazil,Rio de Janeiro,AMER,LATAM,Morgan Stanley,1068,Finance,SMB,ContactMatcher,RAHUEV7ULW,15.92,4,0,7.4824
+210,AMER-2023-135860,12/2/2023,20231202,Rebecca Wilson,Brazil,Rio de Janeiro,AMER,LATAM,Morgan Stanley,1068,Finance,SMB,Storage,R7KN7FTL9U,52.29,9,0,16.2099
+211,AMER-2023-135860,12/2/2023,20231202,Rebecca Wilson,Brazil,Rio de Janeiro,AMER,LATAM,Morgan Stanley,1068,Finance,SMB,Marketing Suite - Gold,H5770QZB5X,91.99,1,0,3.6796
+212,APJ-2021-101007,2/9/2021,20210209,Irene Smith,Japan,Aichi,APJ,JAPN,Toyota Motor,1087,Manufacturing,Strategic,Data Smasher,0EAXVHIBR6,20.8,2,0.2,6.5
+213,AMER-2021-146262,1/2/2021,20210102,Evan Terry,Mexico,Mexico City,AMER,LATAM,Tyson Foods,1088,Consumer Products,Strategic,FinanceHub,Q6MLHV1D9D,23.68,2,0.2,8.88
+214,AMER-2021-146262,1/2/2021,20210102,Evan Terry,Mexico,Mexico City,AMER,LATAM,Tyson Foods,1088,Consumer Products,Strategic,Marketing Suite,MU9RVQO7BD,452.45,5,0.5,-244.323
+215,AMER-2021-146262,1/2/2021,20210102,Evan Terry,Mexico,Mexico City,AMER,LATAM,Tyson Foods,1088,Consumer Products,Strategic,Site Analytics,0C52L60X3Z,62.982,3,0.4,-14.6958
+216,AMER-2021-146262,1/2/2021,20210102,Evan Terry,Mexico,Mexico City,AMER,LATAM,Tyson Foods,1088,Consumer Products,Strategic,Big Ol Database,A8KUCPEZPR,1188,9,0.7,-950.4
+217,AMER-2021-146262,1/2/2021,20210102,Evan Terry,Mexico,Mexico City,AMER,LATAM,Tyson Foods,1088,Consumer Products,Strategic,Data Smasher,K4MIGT0J7P,89.584,2,0.2,4.4792
+218,AMER-2022-130162,10/29/2022,20221029,Bella Mackenzie,United States,New York City,AMER,NAMER,Allianz,1080,Finance,SMB,Marketing Suite - Gold,DR3L61PE16,93.06,6,0,26.0568
+219,AMER-2022-130162,10/29/2022,20221029,Bella Mackenzie,United States,New York City,AMER,NAMER,Allianz,1080,Finance,SMB,Site Analytics,FNZVL8CZOY,302.376,3,0.2,22.6782
+220,AMER-2021-169397,12/24/2021,20211224,Gordon Jackson,Mexico,Puerto Vallarta,AMER,LATAM,Gazprom,1027,Energy,SMB,Storage,B9EN58R7WP,5.584,2,0.2,1.8148
+221,AMER-2021-169397,12/24/2021,20211224,Gordon Jackson,Mexico,Puerto Vallarta,AMER,LATAM,Gazprom,1027,Energy,SMB,Support,FFB6L3T2IS,22.704,6,0.2,8.2302
+222,AMER-2021-169397,12/24/2021,20211224,Gordon Jackson,Mexico,Puerto Vallarta,AMER,LATAM,Gazprom,1027,Energy,SMB,ContactMatcher,1J2W1UFCJQ,19.776,4,0.7,-13.8432
+223,AMER-2021-169397,12/24/2021,20211224,Gordon Jackson,Mexico,Puerto Vallarta,AMER,LATAM,Gazprom,1027,Energy,SMB,SaaS Connector Pack,YBR5EFJKOI,72.704,4,0.2,19.0848
+224,AMER-2021-169397,12/24/2021,20211224,Gordon Jackson,Mexico,Puerto Vallarta,AMER,LATAM,Gazprom,1027,Energy,SMB,Big Ol Database,H63FM8UBRU,479.988,4,0.7,-383.9904
+225,AMER-2021-169397,12/24/2021,20211224,Gordon Jackson,Mexico,Puerto Vallarta,AMER,LATAM,Gazprom,1027,Energy,SMB,ChatBot Plugin,4HR8HNDZF8,27.168,2,0.2,2.7168
+226,AMER-2021-163055,8/9/2021,20210809,Joe Ross,Brazil,São Paulo,AMER,LATAM,Wells Fargo,1099,Finance,Strategic,ChatBot Plugin,H34S0DBPAR,2.2,1,0,0.968
+227,AMER-2021-163055,8/9/2021,20210809,Joe Ross,Brazil,São Paulo,AMER,LATAM,Wells Fargo,1099,Finance,Strategic,ContactMatcher,EAQ6SYJI8V,622.45,5,0,136.939
+228,AMER-2021-163055,8/9/2021,20210809,Joe Ross,Brazil,São Paulo,AMER,LATAM,Wells Fargo,1099,Finance,Strategic,Marketing Suite - Gold,2LTTK4BDBQ,21.98,1,0,0.2198
+229,EMEA-2021-145436,2/28/2021,20210228,Carolyn Murray,South Africa,Johannesburg,EMEA,MEA,United Parcel Service,1090,Transportation,SMB,FinanceHub,GYUSGDVAEB,161.568,2,0.2,-28.2744
+230,EMEA-2021-145436,2/28/2021,20210228,Carolyn Murray,South Africa,Johannesburg,EMEA,MEA,United Parcel Service,1090,Transportation,SMB,FinanceHub,NRQQF2MR32,389.696,8,0.2,43.8408
+231,EMEA-2020-156216,9/13/2020,20200913,Lily Paterson,Sweden,Stockholm,EMEA,NOR,Carrefour,1048,Retail,Strategic,ContactMatcher,5XIQUAR79S,18.648,7,0.7,-12.432
+232,EMEA-2023-100930,4/8/2023,20230408,Bernadette Nolan,Germany,Cologne,EMEA,EU-WEST,Royal Dutch Shell,1031,Energy,Enterprise,ContactMatcher,AALPQA6FDS,233.86,2,0.45,-102.048
+233,EMEA-2023-100930,4/8/2023,20230408,Bernadette Nolan,Germany,Cologne,EMEA,EU-WEST,Royal Dutch Shell,1031,Energy,Enterprise,ContactMatcher,6HNY3O34ZS,620.6145,3,0.45,-248.2458
+234,EMEA-2023-100930,4/8/2023,20230408,Bernadette Nolan,Germany,Cologne,EMEA,EU-WEST,Royal Dutch Shell,1031,Energy,Enterprise,ContactMatcher,EUFWN4YNB1,5.328,2,0.7,-3.552
+235,EMEA-2023-100930,4/8/2023,20230408,Bernadette Nolan,Germany,Cologne,EMEA,EU-WEST,Royal Dutch Shell,1031,Energy,Enterprise,SaaS Connector Pack,D1EECPPCOU,258.072,3,0.2,0
+236,EMEA-2023-100930,4/8/2023,20230408,Bernadette Nolan,Germany,Cologne,EMEA,EU-WEST,Royal Dutch Shell,1031,Energy,Enterprise,Data Smasher,PSFTOH6O16,617.976,3,0.2,-7.7247
+237,AMER-2023-160514,11/13/2023,20231113,William Skinner,United States,Rochester,AMER,NAMER,Merck,1064,Healthcare,Strategic,Support,L1SD510UOR,10.56,2,0,4.752
+238,APJ-2022-157749,6/5/2022,20220605,Trevor Langdon,Australia,Sydney,APJ,ANZ,Target,1085,Retail,SMB,Support,58Z3DEHT2X,25.92,5,0.2,9.396
+239,APJ-2022-157749,6/5/2022,20220605,Trevor Langdon,Australia,Sydney,APJ,ANZ,Target,1085,Retail,SMB,SaaS Connector Pack,U949LTVPO5,419.68,5,0.6,-356.728
+240,APJ-2022-157749,6/5/2022,20220605,Trevor Langdon,Australia,Sydney,APJ,ANZ,Target,1085,Retail,SMB,SaaS Connector Pack,B9GV31WCD4,11.688,3,0.6,-4.6752
+241,APJ-2022-157749,6/5/2022,20220605,Trevor Langdon,Australia,Sydney,APJ,ANZ,Target,1085,Retail,SMB,Site Analytics,Z52JWS0KBL,31.984,2,0.2,11.1944
+242,APJ-2022-157749,6/5/2022,20220605,Trevor Langdon,Australia,Sydney,APJ,ANZ,Target,1085,Retail,SMB,ContactMatcher,LD5XKVG1A5,177.225,5,0.5,-120.513
+243,APJ-2022-157749,6/5/2022,20220605,Trevor Langdon,Australia,Sydney,APJ,ANZ,Target,1085,Retail,SMB,SaaS Connector Pack,7F46Z1DTRS,4.044,3,0.6,-2.8308
+244,APJ-2022-157749,6/5/2022,20220605,Trevor Langdon,Australia,Sydney,APJ,ANZ,Target,1085,Retail,SMB,ChatBot Plugin,9HOSX2C2WJ,7.408,2,0.2,1.2038
+245,EMEA-2020-131926,6/1/2020,20200601,Luke Terry,Luxembourg,Luxembourg,EMEA,EU-WEST,Airbus,1030,Manufacturing,Enterprise,FinanceHub,P99Y8YV8KT,2001.86,7,0,580.5394
+246,EMEA-2020-131926,6/1/2020,20200601,Luke Terry,Luxembourg,Luxembourg,EMEA,EU-WEST,Airbus,1030,Manufacturing,Enterprise,Marketing Suite - Gold,EEFJ1VZ7W3,166.72,2,0,41.68
+247,EMEA-2020-131926,6/1/2020,20200601,Luke Terry,Luxembourg,Luxembourg,EMEA,EU-WEST,Airbus,1030,Manufacturing,Enterprise,Support,IAD2NLBI5E,47.88,6,0,23.94
+248,EMEA-2020-131926,6/1/2020,20200601,Luke Terry,Luxembourg,Luxembourg,EMEA,EU-WEST,Airbus,1030,Manufacturing,Enterprise,OneView,3VV8W7NWLL,1503.25,5,0,496.0725
+249,EMEA-2020-131926,6/1/2020,20200601,Luke Terry,Luxembourg,Luxembourg,EMEA,EU-WEST,Airbus,1030,Manufacturing,Enterprise,Support,3ONJJHTCT1,25.92,4,0,12.4416
+250,AMER-2022-154739,12/11/2022,20221211,Vanessa Davidson,United States,Los Angeles,AMER,NAMER,Cigna,1038,Healthcare,SMB,FinanceHub,U4RHJ0Q5OZ,321.568,2,0.2,28.1372
+251,AMER-2022-145625,9/12/2022,20220912,Penelope Nash,United States,Seattle,AMER,NAMER,Home Depot,1047,Retail,SMB,Support,P109IO0IJP,7.61,1,0,3.5767
+252,AMER-2022-145625,9/12/2022,20220912,Penelope Nash,United States,Seattle,AMER,NAMER,Home Depot,1047,Retail,SMB,Data Smasher,4LV39UJCC2,3347.37,13,0,636.0003
+253,EMEA-2022-146941,12/11/2022,20221211,Molly Rees,United Kingdom,London,EMEA,UKIR,Goldman Sachs Group,1042,Finance,SMB,Marketing Suite - Gold,9UWDBTCLYB,80.58,6,0,22.5624
+254,EMEA-2022-146941,12/11/2022,20221211,Molly Rees,United Kingdom,London,EMEA,UKIR,Goldman Sachs Group,1042,Finance,SMB,SaaS Connector Pack - Gold,SAFJH3RMRM,361.92,4,0,162.864
+255,APJ-2021-159982,11/28/2021,20211128,Carol James,Australia,Sydney,APJ,ANZ,AmerisourceBergen,1007,Healthcare,Strategic,SaaS Connector Pack,6ORO1A1X9W,12.132,9,0.6,-8.4924
+256,APJ-2021-159982,11/28/2021,20211128,Carol James,Australia,Sydney,APJ,ANZ,AmerisourceBergen,1007,Healthcare,Strategic,Marketing Suite - Gold,SDS4VGAZIN,82.368,2,0.2,-19.5624
+257,APJ-2021-159982,11/28/2021,20211128,Carol James,Australia,Sydney,APJ,ANZ,AmerisourceBergen,1007,Healthcare,Strategic,Marketing Suite - Gold,G8GS1KRJ9F,53.92,5,0.2,4.044
+258,APJ-2021-159982,11/28/2021,20211128,Carol James,Australia,Sydney,APJ,ANZ,AmerisourceBergen,1007,Healthcare,Strategic,Site Analytics,Q2ZYD901PL,647.904,6,0.2,56.6916
+259,EMEA-2023-163139,12/2/2023,20231202,Sally Davidson,United Kingdom,London,EMEA,UKIR,Goldman Sachs Group,1042,Finance,SMB,Data Smasher,Y8YB4CS4Q0,20.37,3,0,6.9258
+260,EMEA-2023-163139,12/2/2023,20231202,Sally Davidson,United Kingdom,London,EMEA,UKIR,Goldman Sachs Group,1042,Finance,SMB,Marketing Suite - Gold,W8LOMLLHRW,221.55,3,0,6.6465
+261,EMEA-2023-163139,12/2/2023,20231202,Sally Davidson,United Kingdom,London,EMEA,UKIR,Goldman Sachs Group,1042,Finance,SMB,ContactMatcher,335ML0CS76,17.52,5,0.2,6.132
+262,APJ-2023-155299,6/9/2023,20230609,Simon Peters,Japan,Tokyo,APJ,JAPN,Pemex,1058,Energy,Strategic,OneView,E0Y2LTGZH5,1.624,2,0.8,-4.466
+263,APJ-2020-106992,9/19/2020,20200919,Charles Hart,Japan,Tokyo,APJ,JAPN,HonHai Precision Industry,1033,Tech,Strategic,Big Ol Database,3IGE4YNMM4,3059.982,3,0.4,-509.997
+264,APJ-2020-106992,9/19/2020,20200919,Charles Hart,Japan,Tokyo,APJ,JAPN,HonHai Precision Industry,1033,Tech,Strategic,Big Ol Database,E34U2SY5LB,2519.958,7,0.4,-251.9958
+265,APJ-2022-125318,6/7/2022,20220607,Lucas Mathis,Australia,Sydney,APJ,ANZ,Lowes,1060,Retail,SMB,Site Analytics,6VX3RZ4S8W,328.224,4,0.2,28.7196
+266,AMER-2021-155040,11/10/2021,20211110,Joanne Robertson,United States,Detroit,AMER,NAMER,Ford Motor,1009,Manufacturing,SMB,Data Smasher,6SBXRHTE5J,79.9,2,0,35.156
+267,EMEA-2023-136826,6/17/2023,20230617,Felicity King,Sweden,Stockholm,EMEA,NOR,CVS Health,1026,Retail,Strategic,ChatBot Plugin,1HBFAQQ6H6,14.016,3,0.2,4.7304
+268,AMER-2022-111010,1/22/2022,20220122,Sonia Ince,Argentina,Córdoba,AMER,LATAM,Daimler,1052,Transportation,SMB,Storage,TM6DR3U3SF,7.56,6,0,0.3024
+269,AMER-2023-145366,12/10/2023,20231210,Thomas Peters,Mexico,Guadalajara,AMER,LATAM,Amazon,1004,Tech,Strategic,Marketing Suite - Gold,DIXME035AX,37.208,1,0.2,-7.4416
+270,AMER-2023-145366,12/10/2023,20231210,Thomas Peters,Mexico,Guadalajara,AMER,LATAM,Amazon,1004,Tech,Strategic,SaaS Connector Pack - Gold,74ILT8I1DT,57.576,3,0.2,21.591
+271,AMER-2023-163979,12/29/2023,20231229,Zoe Avery,United States,Los Angeles,AMER,NAMER,Apple,1008,Tech,Strategic,Marketing Suite - Gold,NFM77EIVMM,725.84,4,0,210.4936
+272,AMER-2021-155334,7/30/2021,20210730,Angela Parsons,United States,Los Angeles,AMER,NAMER,AmerisourceBergen,1007,Healthcare,SMB,Data Smasher,1IW1LLRSFA,209.93,7,0,92.3692
+273,AMER-2021-155334,7/30/2021,20210730,Angela Parsons,United States,Los Angeles,AMER,NAMER,AmerisourceBergen,1007,Healthcare,SMB,SaaS Connector Pack,3MCGSDRHJM,5.28,3,0,2.3232
+274,AMER-2021-155334,7/30/2021,20210730,Angela Parsons,United States,Los Angeles,AMER,NAMER,AmerisourceBergen,1007,Healthcare,SMB,ContactMatcher,WKWRKK8HHL,10.92,3,0.2,4.095
+275,AMER-2023-118136,9/17/2023,20230917,Luke Jones,United States,Lafayette,AMER,NAMER,Lowes,1060,Retail,Strategic,Support,OWBD6MTETH,8.82,2,0,4.0572
+276,AMER-2023-118136,9/17/2023,20230917,Luke Jones,United States,Lafayette,AMER,NAMER,Lowes,1060,Retail,Strategic,ChatBot Plugin,5WRJ3LKSXY,5.98,1,0,1.5548
+277,EMEA-2023-132976,10/14/2023,20231014,Isaac Hart,France,Paris,EMEA,EU-WEST,China National Petroleum,1023,Energy,Strategic,Support,18M5NJOKYC,11.648,2,0.2,4.0768
+278,EMEA-2023-132976,10/14/2023,20231014,Isaac Hart,France,Paris,EMEA,EU-WEST,China National Petroleum,1023,Energy,Strategic,Support,V02UGXTM9X,18.176,4,0.2,5.9072
+279,EMEA-2023-132976,10/14/2023,20231014,Isaac Hart,France,Paris,EMEA,EU-WEST,China National Petroleum,1023,Energy,Strategic,Marketing Suite - Gold,CISNWVU7NN,59.712,6,0.2,5.9712
+280,EMEA-2023-132976,10/14/2023,20231014,Isaac Hart,France,Paris,EMEA,EU-WEST,China National Petroleum,1023,Energy,Strategic,FinanceHub,ZX4OIHSH3N,24.84,3,0.2,8.694
+281,APJ-2021-161991,9/26/2021,20210926,Natalie Sanderson,Japan,Tokyo,APJ,JAPN,Aetna,1002,Healthcare,SMB,ContactMatcher,AZ1IDGZU3E,2.08,5,0.8,-3.432
+282,APJ-2021-161991,9/26/2021,20210926,Natalie Sanderson,Japan,Tokyo,APJ,JAPN,Aetna,1002,Healthcare,SMB,Site Analytics,QFIXOH7XSB,1114.4,7,0.2,376.11
+283,AMER-2021-130890,11/2/2021,20211102,Nicola Pullman,United States,New York City,AMER,NAMER,ConocoPhillips,1024,Energy,SMB,ContactMatcher,1HNDUERBWK,1038.84,5,0.2,51.942
+284,EMEA-2021-130883,9/26/2021,20210926,Neil Gill,Belgium,Brussels,EMEA,EU-WEST,Intel,1051,Tech,SMB,Support,XR5F045V0G,141.76,5,0.2,47.844
+285,EMEA-2021-130883,9/26/2021,20210926,Neil Gill,Belgium,Brussels,EMEA,EU-WEST,Intel,1051,Tech,SMB,Data Smasher,GGH7EAXSUB,239.8,5,0.2,47.96
+286,EMEA-2021-130883,9/26/2021,20210926,Neil Gill,Belgium,Brussels,EMEA,EU-WEST,Intel,1051,Tech,SMB,Support,EYW52QEMEI,31.104,6,0.2,10.8864
+287,EMEA-2022-112697,12/19/2022,20221219,Faith Harris,Germany,Munich,EMEA,EU-WEST,Verizon Communications,1094,Communications,Strategic,ContactMatcher,GL2PRPVWVO,254.058,7,0.7,-169.372
+288,EMEA-2022-112697,12/19/2022,20221219,Faith Harris,Germany,Munich,EMEA,EU-WEST,Verizon Communications,1094,Communications,Strategic,OneView,ZLKVXZ0J75,194.528,2,0.2,24.316
+289,EMEA-2022-112697,12/19/2022,20221219,Faith Harris,Germany,Munich,EMEA,EU-WEST,Verizon Communications,1094,Communications,Strategic,Support,0GF55L7BKL,961.48,5,0.2,-204.3145
+290,AMER-2022-110772,11/21/2022,20221121,Thomas Roberts,Mexico,Mexico City,AMER,LATAM,Siemens,1043,Manufacturing,Enterprise,Storage,P6JHKIOA7H,19.096,7,0.2,6.6836
+291,AMER-2022-110772,11/21/2022,20221121,Thomas Roberts,Mexico,Mexico City,AMER,LATAM,Siemens,1043,Manufacturing,Enterprise,FinanceHub,K27UMUWF00,18.496,8,0.2,6.2424
+292,AMER-2022-110772,11/21/2022,20221121,Thomas Roberts,Mexico,Mexico City,AMER,LATAM,Siemens,1043,Manufacturing,Enterprise,Data Smasher,ETRMH5I4EA,255.984,2,0.2,54.3966
+293,AMER-2022-110772,11/21/2022,20221121,Thomas Roberts,Mexico,Mexico City,AMER,LATAM,Siemens,1043,Manufacturing,Enterprise,Marketing Suite,C8CIU7IHT6,86.97,3,0.5,-48.7032
+294,EMEA-2020-111451,12/26/2020,20201226,Lillian Hodges,Russia,St Petersburg,EMEA,EU-EAST,Merck,1064,Healthcare,Strategic,SaaS Connector Pack,113Z30O0UU,300.416,8,0.2,78.8592
+295,EMEA-2020-111451,12/26/2020,20201226,Lillian Hodges,Russia,St Petersburg,EMEA,EU-EAST,Merck,1064,Healthcare,Strategic,FinanceHub,VXLULH6T3H,230.352,3,0.2,20.1558
+296,EMEA-2020-111451,12/26/2020,20201226,Lillian Hodges,Russia,St Petersburg,EMEA,EU-EAST,Merck,1064,Healthcare,Strategic,SaaS Connector Pack,5CCS4F9IG5,218.352,3,0.2,-24.5646
+297,EMEA-2020-111451,12/26/2020,20201226,Lillian Hodges,Russia,St Petersburg,EMEA,EU-EAST,Merck,1064,Healthcare,Strategic,ContactMatcher,BEPZ00Z149,78.6,5,0.7,-62.88
+298,EMEA-2020-111451,12/26/2020,20201226,Lillian Hodges,Russia,St Petersburg,EMEA,EU-EAST,Merck,1064,Healthcare,Strategic,Storage,2Y0EVHZ2EE,27.552,3,0.2,9.2988
+299,AMER-2022-142545,10/29/2022,20221029,Tim Morrison,Argentina,Buenos Aires,AMER,LATAM,General Motors,1041,Manufacturing,Strategic,Support,YIPRYNF8EL,32.4,5,0,15.552
+300,AMER-2022-142545,10/29/2022,20221029,Tim Morrison,Argentina,Buenos Aires,AMER,LATAM,General Motors,1041,Manufacturing,Strategic,Marketing Suite - Gold,9GDGO9GH3D,1082.48,8,0,10.8248
+301,AMER-2022-142545,10/29/2022,20221029,Tim Morrison,Argentina,Buenos Aires,AMER,LATAM,General Motors,1041,Manufacturing,Strategic,Support,JS6CMWHPPS,56.91,3,0,27.3168
+302,AMER-2022-142545,10/29/2022,20221029,Tim Morrison,Argentina,Buenos Aires,AMER,LATAM,General Motors,1041,Manufacturing,Strategic,SaaS Connector Pack,K1KONQ2LLF,77.6,4,0,38.024
+303,AMER-2022-142545,10/29/2022,20221029,Tim Morrison,Argentina,Buenos Aires,AMER,LATAM,General Motors,1041,Manufacturing,Strategic,ContactMatcher,KIFYYEQTW0,14.28,1,0,6.5688
+304,APJ-2023-152380,11/20/2023,20231120,Bella Mackenzie,Australia,Sydney,APJ,ANZ,Allianz,1080,Finance,SMB,ContactMatcher,1AGNOXULPH,219.075,3,0.5,-131.445
+305,EMEA-2021-144253,5/4/2021,20210504,Joseph Forsyth,United Kingdom,London,EMEA,UKIR,Trafigura Group,1100,Finance,Strategic,SaaS Connector Pack,Q2IWL99U64,26.8,2,0,12.864
+306,AMER-2020-130960,12/30/2020,20201230,Maria Dyer,Brazil,Salvador,AMER,LATAM,Nissan Motor,1098,Transportation,Strategic,ChatBot Plugin,3HW725HZ6V,9.84,3,0,2.8536
+307,AMER-2020-111003,6/1/2020,20200601,Anne Rutherford,Argentina,Buenos Aires,AMER,LATAM,Trafigura Group,1100,Finance,Enterprise,ContactMatcher,4G8MXMZRYG,45.48,3,0,20.9208
+308,AMER-2020-111003,6/1/2020,20200601,Anne Rutherford,Argentina,Buenos Aires,AMER,LATAM,Trafigura Group,1100,Finance,Enterprise,ChatBot Plugin,YPEK9QP90U,289.2,6,0,83.868
+309,EMEA-2023-126774,4/16/2023,20230416,Harry Mills,Spain,Madrid,EMEA,EU-WEST,Bosch,1076,Tech,SMB,ChatBot Plugin,NASLM74RTU,4.89,1,0,2.0049
+310,EMEA-2022-142902,9/13/2022,20220913,Trevor Clark,Russia,St Petersburg,EMEA,EU-EAST,Allianz,1080,Finance,Strategic,SaaS Connector Pack,T178EITTF1,15.136,4,0.2,3.5948
+311,EMEA-2022-142902,9/13/2022,20220913,Trevor Clark,Russia,St Petersburg,EMEA,EU-EAST,Allianz,1080,Finance,Strategic,FinanceHub,NZOCZBU5Y6,466.768,2,0.2,52.5114
+312,EMEA-2022-142902,9/13/2022,20220913,Trevor Clark,Russia,St Petersburg,EMEA,EU-EAST,Allianz,1080,Finance,Strategic,SaaS Connector Pack,7JXKV47RYL,15.232,1,0.2,1.7136
+313,EMEA-2022-142902,9/13/2022,20220913,Trevor Clark,Russia,St Petersburg,EMEA,EU-EAST,Allianz,1080,Finance,Strategic,FinanceHub,LE6ID73JOJ,6.264,3,0.2,2.0358
+314,AMER-2020-120887,9/27/2020,20200927,Dylan Terry,Argentina,Mendoza,AMER,LATAM,HSBC Holdings,1070,Finance,Strategic,SaaS Connector Pack,W2S8WFPB53,87.54,3,0,37.6422
+315,EMEA-2020-167850,8/9/2020,20200809,Jasmine MacDonald,Germany,Leipzig,EMEA,EU-WEST,Enel,1013,Energy,Strategic,Site Analytics,OLWR6J56VS,178.384,2,0.2,22.298
+316,EMEA-2020-167850,8/9/2020,20200809,Jasmine MacDonald,Germany,Leipzig,EMEA,EU-WEST,Enel,1013,Energy,Strategic,Support,3N758X9JTI,15.552,3,0.2,5.4432
+317,EMEA-2020-164259,12/28/2020,20201228,Blake Campbell,France,Paris,EMEA,EU-WEST,AT&T,1010,Communications,Strategic,ChatBot Plugin,S1F55BUKX3,99.136,4,0.2,8.6744
+318,EMEA-2020-164973,11/4/2020,20201104,Boris Underwood,United Kingdom,London,EMEA,UKIR,Itochu,1032,Finance,Enterprise,FinanceHub,SGO17QHOV4,135.882,1,0.1,24.1568
+319,EMEA-2020-164973,11/4/2020,20201104,Boris Underwood,United Kingdom,London,EMEA,UKIR,Itochu,1032,Finance,Enterprise,Big Ol Database,57XCK34LAA,3991.98,2,0,1995.99
+320,EMEA-2020-164973,11/4/2020,20201104,Boris Underwood,United Kingdom,London,EMEA,UKIR,Itochu,1032,Finance,Enterprise,Site Analytics,XBR8ZMQ7AU,275.94,6,0,80.0226
+321,EMEA-2020-164973,11/4/2020,20201104,Boris Underwood,United Kingdom,London,EMEA,UKIR,Itochu,1032,Finance,Enterprise,Data Smasher,RIKDGVA8MK,360,4,0,129.6
+322,EMEA-2020-164973,11/4/2020,20201104,Boris Underwood,United Kingdom,London,EMEA,UKIR,Itochu,1032,Finance,Enterprise,Marketing Suite - Gold,3LEQNZH3I0,43.57,1,0,13.071
+323,AMER-2020-156601,9/19/2020,20200919,Fiona Peters,United States,Jacksonville,AMER,NAMER,United Parcel Service,1090,Transportation,Strategic,Storage,4PDIGIYY3N,7.16,2,0,3.58
+324,AMER-2022-162138,4/24/2022,20220424,Phil Short,United States,Long Beach,AMER,NAMER,Bosch,1076,Tech,Strategic,ContactMatcher,VXC511ZPC8,251.52,6,0.2,81.744
+325,AMER-2022-162138,4/24/2022,20220424,Phil Short,United States,Long Beach,AMER,NAMER,Bosch,1076,Tech,Strategic,Data Smasher,84XDREGB95,99.99,1,0,34.9965
+326,EMEA-2023-153339,11/4/2023,20231104,Fiona Allan,South Africa,Johannesburg,EMEA,MEA,Ford Motor,1009,Manufacturing,Strategic,SaaS Connector Pack,YPM1YTB9SU,15.992,1,0.2,0.9995
+327,EMEA-2022-141544,8/31/2022,20220831,Peter McLean,France,Paris,EMEA,EU-WEST,Pfizer,1074,Healthcare,SMB,Site Analytics,7HTRYKPD8E,290.898,3,0.4,-67.8762
+328,EMEA-2022-141544,8/31/2022,20220831,Peter McLean,France,Paris,EMEA,EU-WEST,Pfizer,1074,Healthcare,SMB,Marketing Suite - Gold,1MUMFE68B2,54.224,2,0.2,3.389
+329,EMEA-2022-141544,8/31/2022,20220831,Peter McLean,France,Paris,EMEA,EU-WEST,Pfizer,1074,Healthcare,SMB,FinanceHub,5FPU0GM5XS,786.744,4,0.3,-258.5016
+330,EMEA-2022-141544,8/31/2022,20220831,Peter McLean,France,Paris,EMEA,EU-WEST,Pfizer,1074,Healthcare,SMB,FinanceHub,QWKHH67GTN,100.24,10,0.2,33.831
+331,EMEA-2022-141544,8/31/2022,20220831,Peter McLean,France,Paris,EMEA,EU-WEST,Pfizer,1074,Healthcare,SMB,ContactMatcher,NQKL7IM060,37.764,6,0.7,-27.6936
+332,EMEA-2022-150147,4/26/2022,20220426,Kevin Morrison,France,Paris,EMEA,EU-WEST,AmerisourceBergen,1007,Healthcare,SMB,Site Analytics,NX6P4SZJ4D,82.8,2,0.4,-20.7
+333,EMEA-2022-150147,4/26/2022,20220426,Kevin Morrison,France,Paris,EMEA,EU-WEST,AmerisourceBergen,1007,Healthcare,SMB,ContactMatcher,M8HXLQVXTK,20.724,2,0.7,-13.816
+334,EMEA-2022-150147,4/26/2022,20220426,Kevin Morrison,France,Paris,EMEA,EU-WEST,AmerisourceBergen,1007,Healthcare,SMB,ContactMatcher,EHSDJOHJA1,4.896,3,0.7,-3.4272
+335,AMER-2021-137946,9/1/2021,20210901,Andrew Wilkins,United States,New York City,AMER,NAMER,BNP Paribas,1065,Finance,SMB,ContactMatcher,R48ZY9KJ1P,4.752,1,0.2,1.6038
+336,AMER-2021-137946,9/1/2021,20210901,Andrew Wilkins,United States,New York City,AMER,NAMER,BNP Paribas,1065,Finance,SMB,Alchemy,QP5XJAPN8N,959.984,2,0.2,335.9944
+337,AMER-2021-137946,9/1/2021,20210901,Andrew Wilkins,United States,New York City,AMER,NAMER,BNP Paribas,1065,Finance,SMB,ContactMatcher,4PX03GR4QF,14.368,4,0.2,4.49
+338,AMER-2020-129924,7/12/2020,20200712,Matt Forsyth,United States,Los Angeles,AMER,NAMER,Sprint Nextel,1081,Communications,Strategic,ContactMatcher,QZ930GKLTZ,7.712,2,0.2,2.7956
+339,AMER-2020-129924,7/12/2020,20200712,Matt Forsyth,United States,Los Angeles,AMER,NAMER,Sprint Nextel,1081,Communications,Strategic,ContactMatcher,W6G2PNXY91,698.352,3,0.2,-17.4588
+340,EMEA-2021-128167,6/22/2021,20210622,Trevor Langdon,Turkey,Istanbul,EMEA,MEA,Target,1085,Retail,SMB,Storage,5SNZ6SMT9Y,4.96,4,0,2.3312
+341,EMEA-2020-122336,4/13/2020,20200413,Tim Morrison,France,Paris,EMEA,EU-WEST,General Motors,1041,Manufacturing,Strategic,ChatBot Plugin,6FJY3OGC04,17.856,4,0.2,1.116
+342,EMEA-2020-122336,4/13/2020,20200413,Tim Morrison,France,Paris,EMEA,EU-WEST,General Motors,1041,Manufacturing,Strategic,ContactMatcher,CDPVLL2H9E,509.97,10,0.7,-407.976
+343,EMEA-2020-122336,4/13/2020,20200413,Tim Morrison,France,Paris,EMEA,EU-WEST,General Motors,1041,Manufacturing,Strategic,Storage,P3EHOK62ZE,30.992,13,0.2,10.0724
+344,EMEA-2020-122336,4/13/2020,20200413,Tim Morrison,France,Paris,EMEA,EU-WEST,General Motors,1041,Manufacturing,Strategic,Site Analytics,6SNTAK0OF7,71.928,12,0.4,8.3916
+345,APJ-2021-120712,12/20/2021,20211220,Warren Forsyth,Japan,Chiba,APJ,JAPN,Chevron,1017,Energy,SMB,Marketing Suite - Gold,VRM3DBKSGL,88.8,4,0.2,-2.22
+346,AMER-2023-169901,6/16/2023,20230616,Amelia Martin,United States,Los Angeles,AMER,NAMER,Walmart,1096,Retail,SMB,Site Analytics,0GTZU80IUI,47.976,3,0.2,4.7976
+347,APJ-2023-134306,7/9/2023,20230709,Sally Wallace,South Korea,Incheon,APJ,APAC,Tyson Foods,1088,Consumer Products,SMB,ChatBot Plugin,RDE1SV1I9X,7.56,3,0,3.0996
+348,APJ-2023-134306,7/9/2023,20230709,Sally Wallace,South Korea,Incheon,APJ,APAC,Tyson Foods,1088,Consumer Products,SMB,Support,QA0SQ07L5E,24.56,2,0,11.5432
+349,APJ-2023-134306,7/9/2023,20230709,Sally Wallace,South Korea,Incheon,APJ,APAC,Tyson Foods,1088,Consumer Products,SMB,ChatBot Plugin,SELW26MV6G,12.96,2,0,4.1472
+350,EMEA-2022-129714,9/2/2022,20220902,Anna Bower,United Kingdom,London,EMEA,UKIR,Airbus,1030,Manufacturing,Enterprise,Data Smasher,QQA6BIQIDR,6.79,1,0,2.3086
+351,EMEA-2022-129714,9/2/2022,20220902,Anna Bower,United Kingdom,London,EMEA,UKIR,Airbus,1030,Manufacturing,Enterprise,Support,4P1FWJW6GK,24.56,2,0,11.5432
+352,EMEA-2022-129714,9/2/2022,20220902,Anna Bower,United Kingdom,London,EMEA,UKIR,Airbus,1030,Manufacturing,Enterprise,ContactMatcher,TVUD9B2MKZ,3.048,1,0.2,1.0668
+353,EMEA-2022-129714,9/2/2022,20220902,Anna Bower,United Kingdom,London,EMEA,UKIR,Airbus,1030,Manufacturing,Enterprise,Support,2Y1KC0WZ3S,49.12,4,0,23.0864
+354,EMEA-2022-129714,9/2/2022,20220902,Anna Bower,United Kingdom,London,EMEA,UKIR,Airbus,1030,Manufacturing,Enterprise,ContactMatcher,NWYX9N2OIT,4355.168,4,0.2,1415.4296
+355,EMEA-2022-138520,4/9/2022,20220409,Pippa Morrison,United Kingdom,London,EMEA,UKIR,Sysco,1084,Consumer Products,SMB,Marketing Suite,YBW58615X8,388.704,6,0.2,-4.8588
+356,EMEA-2022-138520,4/9/2022,20220409,Pippa Morrison,United Kingdom,London,EMEA,UKIR,Sysco,1084,Consumer Products,SMB,SaaS Connector Pack - Gold,8NGRTC1YVE,8.26,2,0,3.7996
+357,EMEA-2022-138520,4/9/2022,20220409,Pippa Morrison,United Kingdom,London,EMEA,UKIR,Sysco,1084,Consumer Products,SMB,ChatBot Plugin,B7GJZG4I8A,17.04,4,0,6.9864
+358,EMEA-2022-138520,4/9/2022,20220409,Pippa Morrison,United Kingdom,London,EMEA,UKIR,Sysco,1084,Consumer Products,SMB,Support,6YI12AEC3E,34.4,5,0,15.824
+359,EMEA-2022-130001,4/24/2022,20220424,Jan Clark,Sweden,Stockholm,EMEA,NOR,Samsung Electronics,1015,Tech,Strategic,Support,I4MRKYQB6X,36.24,5,0.2,11.325
+360,EMEA-2023-155698,3/9/2023,20230309,Gordon Chapman,Finland,Helsinki,EMEA,NOR,Itochu,1032,Finance,Strategic,OneView,3JS9R2BHCD,647.84,8,0,168.4384
+361,EMEA-2023-155698,3/9/2023,20230309,Gordon Chapman,Finland,Helsinki,EMEA,NOR,Itochu,1032,Finance,Strategic,FinanceHub,QKQNVDBBNG,20.7,2,0,9.936
+362,EMEA-2023-144904,9/26/2023,20230926,Wanda Simpson,United Kingdom,London,EMEA,UKIR,Marathon Petroleum,1061,Energy,SMB,FinanceHub,BI0GW6QRJ7,20.7,2,0,9.936
+363,EMEA-2023-144904,9/26/2023,20230926,Wanda Simpson,United Kingdom,London,EMEA,UKIR,Marathon Petroleum,1061,Energy,SMB,FinanceHub,Z8FT498FER,488.646,3,0.1,86.8704
+364,EMEA-2023-144904,9/26/2023,20230926,Wanda Simpson,United Kingdom,London,EMEA,UKIR,Marathon Petroleum,1061,Energy,SMB,ChatBot Plugin,XV4Y8FMW94,5.56,2,0,1.4456
+365,EMEA-2023-144904,9/26/2023,20230926,Wanda Simpson,United Kingdom,London,EMEA,UKIR,Marathon Petroleum,1061,Energy,SMB,SaaS Connector Pack,CMIDT34J7J,47.12,8,0,20.7328
+366,AMER-2020-123344,9/24/2020,20200924,Christian Gill,United States,Los Angeles,AMER,NAMER,Cisco Systems,1019,Tech,SMB,Marketing Suite - Gold,3F82NCFA64,211.96,4,0,8.4784
+367,EMEA-2022-155516,10/22/2022,20221022,Julian Nash,Saudi Arabia,Dhahran,EMEA,MEA,Amazon,1004,Tech,Strategic,ContactMatcher,QMC9P8M6BB,23.2,4,0,10.44
+368,EMEA-2022-155516,10/22/2022,20221022,Julian Nash,Saudi Arabia,Dhahran,EMEA,MEA,Amazon,1004,Tech,Strategic,Support,UMSSYS3UNF,7.36,2,0,0.1472
+369,EMEA-2022-155516,10/22/2022,20221022,Julian Nash,Saudi Arabia,Dhahran,EMEA,MEA,Amazon,1004,Tech,Strategic,Marketing Suite - Gold,TQXJJ34AN2,104.79,7,0,29.3412
+370,EMEA-2022-155516,10/22/2022,20221022,Julian Nash,Saudi Arabia,Dhahran,EMEA,MEA,Amazon,1004,Tech,Strategic,Marketing Suite,PLXKKAFI1X,1043.92,4,0,271.4192
+371,APJ-2023-104745,5/30/2023,20230530,Anna Hemmings,Japan,Chiba,APJ,JAPN,Microsoft,1066,Tech,SMB,Support,MMJB3P8UDC,25.92,5,0.2,9.396
+372,APJ-2023-104745,5/30/2023,20230530,Anna Hemmings,Japan,Chiba,APJ,JAPN,Microsoft,1066,Tech,SMB,Marketing Suite - Gold,8F5ZOLPB97,53.424,3,0.2,4.6746
+373,AMER-2020-119137,7/23/2020,20200723,Sue Anderson,Chile,Santiago,AMER,LATAM,BMW,1039,Manufacturing,SMB,ContactMatcher,2VG1LP736K,8.16,5,0.7,-5.712
+374,AMER-2020-119137,7/23/2020,20200723,Sue Anderson,Chile,Santiago,AMER,LATAM,BMW,1039,Manufacturing,SMB,Data Smasher,SY03L2AZJC,1023.936,8,0.2,179.1888
+375,AMER-2020-119137,7/23/2020,20200723,Sue Anderson,Chile,Santiago,AMER,LATAM,BMW,1039,Manufacturing,SMB,ChatBot Plugin,ILH5Z26GBC,9.24,1,0.2,0.924
+376,AMER-2020-119137,7/23/2020,20200723,Sue Anderson,Chile,Santiago,AMER,LATAM,BMW,1039,Manufacturing,SMB,Data Smasher,684LD1AMQV,479.04,10,0.2,-29.94
+377,APJ-2022-134656,9/29/2022,20220929,Boris Coleman,Australia,Wollongong,APJ,ANZ,Goldman Sachs Group,1042,Finance,Strategic,Support,OSERJ59134,99.136,4,0.2,30.98
+378,APJ-2023-134481,8/28/2023,20230828,Fiona Nolan,South Korea,Seoul,APJ,APAC,Sony,1028,Tech,Strategic,ContactMatcher,87B5QVNTI8,1488.424,7,0.3,-297.6848
+379,APJ-2021-130792,4/28/2021,20210428,Faith Jones,Japan,Tokyo,APJ,JAPN,Sony,1028,Tech,SMB,OneView,TOYHR6HJS6,8.652,3,0.8,-20.3322
+380,APJ-2021-130792,4/28/2021,20210428,Faith Jones,Japan,Tokyo,APJ,JAPN,Sony,1028,Tech,SMB,Marketing Suite - Gold,0LWHAD6NGQ,23.832,3,0.2,2.6811
+381,APJ-2021-130792,4/28/2021,20210428,Faith Jones,Japan,Tokyo,APJ,JAPN,Sony,1028,Tech,SMB,ContactMatcher,TEEC35CFRL,12.176,4,0.8,-18.8728
+382,AMER-2022-134775,10/29/2022,20221029,Grace Duncan,United States,Los Angeles,AMER,NAMER,Allianz,1080,Finance,Strategic,Support,E7HOFXP1IA,50.96,7,0,25.48
+383,AMER-2022-134775,10/29/2022,20221029,Grace Duncan,United States,Los Angeles,AMER,NAMER,Allianz,1080,Finance,Strategic,ContactMatcher,QJEVMC4FJX,49.536,3,0.2,17.3376
+384,AMER-2021-125395,6/26/2021,20210626,Richard Davidson,Brazil,Salvador,AMER,LATAM,Intel,1051,Tech,Strategic,Data Smasher,AW1AJHYDDW,41.9,2,0,8.799
+385,EMEA-2021-168935,11/27/2021,20211127,Colin Glover,Germany,Dresden,EMEA,EU-WEST,Verizon Communications,1094,Communications,SMB,ContactMatcher,IM11OP4VYJ,375.4575,3,0.45,-157.0095
+386,EMEA-2021-168935,11/27/2021,20211127,Colin Glover,Germany,Dresden,EMEA,EU-WEST,Verizon Communications,1094,Communications,SMB,Data Smasher,VUZ91PU1I4,83.976,3,0.2,-1.0497
+387,EMEA-2021-122756,12/3/2021,20211203,Phil Dowd,France,Paris,EMEA,EU-WEST,AT&T,1010,Communications,Strategic,Big Ol Database,UZ6PG1RRUH,482.34,4,0.7,-337.638
+388,EMEA-2021-122756,12/3/2021,20211203,Phil Dowd,France,Paris,EMEA,EU-WEST,AT&T,1010,Communications,Strategic,SaaS Connector Pack,HY39RJ3CN6,2.96,1,0.2,0.777
+389,AMER-2020-115973,11/24/2020,20201124,Rachel Cornish,Mexico,Guadalajara,AMER,LATAM,Volkswagen,1046,Manufacturing,SMB,ChatBot Plugin,53JY1OWYNH,2.624,1,0.2,0.4264
+390,EMEA-2023-101798,12/12/2023,20231212,Molly Vance,United Kingdom,London,EMEA,UKIR,Boeing,1014,Manufacturing,SMB,ContactMatcher,4KQUV8K3FS,23.36,4,0.2,7.884
+391,EMEA-2023-101798,12/12/2023,20231212,Molly Vance,United Kingdom,London,EMEA,UKIR,Boeing,1014,Manufacturing,SMB,Data Smasher,9BB4OG8S4P,39.98,2,0,13.5932
+392,AMER-2020-135972,9/21/2020,20200921,Alan Graham,Canada,Vancouver,AMER,NAMER,UnitedHealth Group,1092,Healthcare,SMB,Site Analytics,53XQXZG6U7,246.384,2,0.2,27.7182
+393,AMER-2020-135972,9/21/2020,20200921,Alan Graham,Canada,Vancouver,AMER,NAMER,UnitedHealth Group,1092,Healthcare,SMB,Alchemy,BOW7GZ3ZYT,1799.97,3,0,701.9883
+394,APJ-2020-134971,6/7/2020,20200607,Dominic Bell,Australia,Adelaide,APJ,ANZ,Mitsubishi,1050,Manufacturing,Strategic,ContactMatcher,SYC68VXSB8,12.462,3,0.8,-20.5623
+395,EMEA-2023-102946,7/1/2023,20230701,Abigail Langdon,Israel,Tel Aviv,EMEA,EU-EAST,Exxon Mobil,1034,Energy,Enterprise,ContactMatcher,41WBNN4Q1R,75.792,3,0.2,25.5798
+396,EMEA-2023-165603,10/18/2023,20231018,Edward Wilkins,Norway,Hordaland,EMEA,NOR,American Express,1005,Finance,Strategic,Marketing Suite - Gold,00LFY78U4K,49.96,2,0,9.4924
+397,EMEA-2023-165603,10/18/2023,20231018,Edward Wilkins,Norway,Hordaland,EMEA,NOR,American Express,1005,Finance,Strategic,Support,6TRD5HBW8R,12.96,2,0,6.2208
+398,AMER-2021-122259,10/31/2021,20211031,Emily Morrison,Brazil,Rio de Janeiro,AMER,LATAM,Pfizer,1074,Healthcare,Enterprise,Support,Z1819VGIQS,70.12,4,0,21.036
+399,APJ-2022-108987,9/9/2022,20220909,Richard Lyman,Japan,Tokyo,APJ,JAPN,Bank of America Corp.,1011,Finance,SMB,Marketing Suite - Gold,R2VX8XJ1PM,35.952,3,0.2,3.5952
+400,APJ-2022-108987,9/9/2022,20220909,Richard Lyman,Japan,Tokyo,APJ,JAPN,Bank of America Corp.,1011,Finance,SMB,Marketing Suite,63SAEQQORW,2396.2656,4,0.32,-317.1528
+401,APJ-2022-108987,9/9/2022,20220909,Richard Lyman,Japan,Tokyo,APJ,JAPN,Bank of America Corp.,1011,Finance,SMB,Marketing Suite - Gold,ZVZUYXAI53,131.136,4,0.2,-32.784
+402,APJ-2022-108987,9/9/2022,20220909,Richard Lyman,Japan,Tokyo,APJ,JAPN,Bank of America Corp.,1011,Finance,SMB,Data Smasher,OP93COEQD1,57.584,2,0.2,0.7198
+403,EMEA-2020-113166,12/24/2020,20201224,Lily Bond,Germany,Hamburg,EMEA,EU-WEST,Bosch,1076,Tech,SMB,Support,JVCY2WXTGA,9.568,2,0.2,3.4684
+404,EMEA-2020-155208,4/16/2020,20200416,Gordon Graham,Sweden,Stockholm,EMEA,NOR,Engie,1062,Energy,Strategic,ChatBot Plugin,V0X8WESW8Y,39.072,6,0.2,9.768
+405,EMEA-2023-117933,12/25/2023,20231225,Joe Hughes,United Kingdom,London,EMEA,UKIR,J.P. Morgan Chase & Co.,1054,Finance,SMB,OneView,V5LQIDE4DG,35.91,3,0,9.6957
+406,AMER-2023-117457,12/9/2023,20231209,Kimberly Newman,United States,Los Angeles,AMER,NAMER,Amazon,1004,Tech,SMB,Data Smasher,I6P8Z71G7J,179.95,5,0,37.7895
+407,AMER-2023-117457,12/9/2023,20231209,Kimberly Newman,United States,Los Angeles,AMER,NAMER,Amazon,1004,Tech,SMB,Alchemy,UIME93UKHK,1199.976,3,0.2,434.9913
+408,AMER-2023-117457,12/9/2023,20231209,Kimberly Newman,United States,Los Angeles,AMER,NAMER,Amazon,1004,Tech,SMB,Support,IWXSZLFEG9,27.15,5,0,13.3035
+409,AMER-2023-117457,12/9/2023,20231209,Kimberly Newman,United States,Los Angeles,AMER,NAMER,Amazon,1004,Tech,SMB,ContactMatcher,WP0F4QAY0Y,1004.024,7,0.2,-112.9527
+410,AMER-2023-117457,12/9/2023,20231209,Kimberly Newman,United States,Los Angeles,AMER,NAMER,Amazon,1004,Tech,SMB,Support,BLQZNMMFAZ,9.68,1,0,4.6464
+411,AMER-2023-117457,12/9/2023,20231209,Kimberly Newman,United States,Los Angeles,AMER,NAMER,Amazon,1004,Tech,SMB,FinanceHub,DG8CLYE000,28.35,9,0,13.608
+412,AMER-2023-117457,12/9/2023,20231209,Kimberly Newman,United States,Los Angeles,AMER,NAMER,Amazon,1004,Tech,SMB,Support,6FWXGFJ4QD,55.98,1,0,27.4302
+413,AMER-2023-117457,12/9/2023,20231209,Kimberly Newman,United States,Los Angeles,AMER,NAMER,Amazon,1004,Tech,SMB,Marketing Suite,N9MQAHBVAT,1336.829,13,0.15,31.4548
+414,AMER-2023-117457,12/9/2023,20231209,Kimberly Newman,United States,Los Angeles,AMER,NAMER,Amazon,1004,Tech,SMB,FinanceHub,JO47LVRDO3,113.568,2,0.2,-18.4548
+415,AMER-2023-142636,11/4/2023,20231104,Felicity Henderson,Canada,Toronto,AMER,NAMER,Bank of America Corp.,1011,Finance,Strategic,Support,UR1AX0IZI4,139.86,7,0,65.7342
+416,AMER-2023-142636,11/4/2023,20231104,Felicity Henderson,Canada,Toronto,AMER,NAMER,Bank of America Corp.,1011,Finance,Strategic,FinanceHub,B4D17ZSBCK,307.136,4,0.2,26.8744
+417,AMER-2023-122105,6/25/2023,20230625,Blake Fraser,United States,Henderson,AMER,NAMER,UnitedHealth Group,1092,Healthcare,SMB,ChatBot Plugin,2VIZFLU44N,95.92,8,0,25.8984
+418,AMER-2022-148796,4/15/2022,20220415,Lily North,United States,New York City,AMER,NAMER,American Express,1005,Finance,SMB,FinanceHub,6XMMHLB1N8,383.8,5,0.2,38.38
+419,EMEA-2023-154816,11/7/2023,20231107,Gordon Chapman,Ireland,Dublin,EMEA,UKIR,Itochu,1032,Finance,Strategic,Support,J3L0XC6JPU,5.78,1,0,2.8322
+420,AMER-2023-110478,3/5/2023,20230305,Blake Campbell,United States,New York City,AMER,NAMER,AT&T,1010,Communications,Strategic,ChatBot Plugin,3WM2J8GCTM,9.32,4,0,2.7028
+421,AMER-2023-110478,3/5/2023,20230305,Blake Campbell,United States,New York City,AMER,NAMER,AT&T,1010,Communications,Strategic,SaaS Connector Pack - Gold,1BHUNAPZW0,15.25,1,0,7.015
+422,EMEA-2020-142048,6/22/2020,20200622,Anne Lee,Russia,Moscow,EMEA,EU-EAST,Oracle,1072,Tech,SMB,Data Smasher,4QP8UX0WST,196.752,6,0.2,56.5662
+423,APJ-2023-125388,10/20/2023,20231020,Irene Duncan,South Korea,Seoul,APJ,APAC,Comcast,1022,Communications,Strategic,SaaS Connector Pack,FYIW4EU3XM,56.56,4,0,14.7056
+424,APJ-2023-125388,10/20/2023,20231020,Irene Duncan,South Korea,Seoul,APJ,APAC,Comcast,1022,Communications,Strategic,Marketing Suite - Gold,SMUE5DYYZZ,32.7,3,0,8.502
+425,EMEA-2023-155705,8/22/2023,20230822,Sean Rees,Ukraine,Kyiv,EMEA,EU-EAST,Walgreens,1095,Retail,SMB,FinanceHub,HOMM5C3XFL,866.4,4,0,225.264
+426,AMER-2023-149160,11/24/2023,20231124,Joseph Newman,Brazil,Salvador,AMER,LATAM,Tesco,1059,Retail,Strategic,SaaS Connector Pack,MM4ZOET6ST,28.4,2,0,11.076
+427,AMER-2023-149160,11/24/2023,20231124,Joseph Newman,Brazil,Salvador,AMER,LATAM,Tesco,1059,Retail,Strategic,ContactMatcher,WGNUX02B1I,287.92,8,0,138.2016
+428,EMEA-2020-101476,9/12/2020,20200912,Victoria Nash,United Kingdom,Leicester,EMEA,UKIR,BMW,1039,Manufacturing,Enterprise,Big Ol Database,UOO7AR29D5,69.99,1,0,30.0957
+429,APJ-2023-152275,10/2/2023,20231002,Sebastian Brown,Japan,Osaka,APJ,JAPN,Phillips 66,1056,Energy,Strategic,ChatBot Plugin,FA0XNCPJKF,6.672,6,0.2,0.5004
+430,EMEA-2022-123750,4/16/2022,20220416,Gordon Greene,Sweden,Malmö,EMEA,NOR,Lowes,1060,Retail,Enterprise,ContactMatcher,X8MNO7G6RT,189.588,2,0.7,-145.3508
+431,EMEA-2022-123750,4/16/2022,20220416,Gordon Greene,Sweden,Malmö,EMEA,NOR,Lowes,1060,Retail,Enterprise,Data Smasher,EWS62DTMCW,408.744,7,0.2,76.6395
+432,EMEA-2022-123750,4/16/2022,20220416,Gordon Greene,Sweden,Malmö,EMEA,NOR,Lowes,1060,Retail,Enterprise,Data Smasher,JGJ0FJKHEO,291.96,5,0.2,54.7425
+433,EMEA-2022-123750,4/16/2022,20220416,Gordon Greene,Sweden,Malmö,EMEA,NOR,Lowes,1060,Retail,Enterprise,Marketing Suite - Gold,EAMQBL5QOO,4.768,2,0.2,-0.7748
+434,APJ-2022-127369,6/7/2022,20220607,Anthony Sanderson,South Korea,Incheon,APJ,APAC,American Express,1005,Finance,SMB,Marketing Suite - Gold,3XZV8DABB4,714.3,5,0,207.147
+435,EMEA-2020-150574,12/19/2020,20201219,Ryan Oliver,Germany,Berlin,EMEA,EU-WEST,CVS Health,1026,Retail,SMB,ContactMatcher,T755MPWHPG,4.812,2,0.7,-3.6892
+436,EMEA-2020-150574,12/19/2020,20201219,Ryan Oliver,Germany,Berlin,EMEA,EU-WEST,CVS Health,1026,Retail,SMB,Data Smasher,LWEKYP9MW7,247.8,5,0.2,-18.585
+437,APJ-2022-147375,6/13/2022,20220613,Liam Abraham,Australia,Sydney,APJ,ANZ,Kroger,1057,Retail,Enterprise,Big Ol Database,0B4JI38WQZ,1007.979,3,0.3,43.1991
+438,APJ-2022-147375,6/13/2022,20220613,Liam Abraham,Australia,Sydney,APJ,ANZ,Kroger,1057,Retail,Enterprise,Support,ZK3NW9UQQX,313.488,7,0.2,113.6394
+439,APJ-2023-130043,9/16/2023,20230916,Chloe Underwood,Japan,Tokyo,APJ,JAPN,American Express,1005,Finance,Strategic,Support,TRE1MH4COF,31.872,8,0.2,11.5536
+440,EMEA-2023-157252,1/21/2023,20230121,Luke Mills,United Kingdom,London,EMEA,UKIR,Prudential Financial,1078,Finance,Strategic,FinanceHub,FFFJJIQH8S,207.846,3,0.1,2.3094
+441,AMER-2022-115756,9/6/2022,20220906,Claire Welch,Brazil,São Paulo,AMER,LATAM,Toyota Motor,1087,Manufacturing,SMB,SaaS Connector Pack,I28N4L8T94,12.22,1,0,3.666
+442,AMER-2022-115756,9/6/2022,20220906,Claire Welch,Brazil,São Paulo,AMER,LATAM,Toyota Motor,1087,Manufacturing,SMB,Marketing Suite - Gold,AFOUVZCW51,194.94,3,0,23.3928
+443,AMER-2022-115756,9/6/2022,20220906,Claire Welch,Brazil,São Paulo,AMER,LATAM,Toyota Motor,1087,Manufacturing,SMB,Marketing Suite - Gold,8FF117X1W3,70.95,3,0,20.5755
+444,AMER-2022-115756,9/6/2022,20220906,Claire Welch,Brazil,São Paulo,AMER,LATAM,Toyota Motor,1087,Manufacturing,SMB,Support,EGWDSI2L58,91.36,4,0,42.0256
+445,AMER-2022-115756,9/6/2022,20220906,Claire Welch,Brazil,São Paulo,AMER,LATAM,Toyota Motor,1087,Manufacturing,SMB,FinanceHub,KWLP18VAJM,242.94,3,0,29.1528
+446,AMER-2022-115756,9/6/2022,20220906,Claire Welch,Brazil,São Paulo,AMER,LATAM,Toyota Motor,1087,Manufacturing,SMB,FinanceHub,5SM0V6VK2L,22.05,7,0,10.584
+447,APJ-2023-154214,3/21/2023,20230321,Owen Ferguson,India,Mumbai,APJ,IND,Nissan Motor,1098,Transportation,SMB,SaaS Connector Pack,QJF7UWA715,2.91,1,0,1.3677
+448,EMEA-2022-166674,4/2/2022,20220402,Cameron MacLeod,United Kingdom,Cardiff,EMEA,UKIR,Mondelez International,1067,Consumer Products,SMB,ChatBot Plugin,X5VYSL8RPS,59.52,3,0,15.4752
+449,EMEA-2022-166674,4/2/2022,20220402,Cameron MacLeod,United Kingdom,Cardiff,EMEA,UKIR,Mondelez International,1067,Consumer Products,SMB,Marketing Suite - Gold,F9XHTFH9NV,161.94,3,0,9.7164
+450,EMEA-2022-166674,4/2/2022,20220402,Cameron MacLeod,United Kingdom,Cardiff,EMEA,UKIR,Mondelez International,1067,Consumer Products,SMB,ChatBot Plugin,GFXOX0ULS3,263.88,6,0,71.2476
+451,EMEA-2022-166674,4/2/2022,20220402,Cameron MacLeod,United Kingdom,Cardiff,EMEA,UKIR,Mondelez International,1067,Consumer Products,SMB,ChatBot Plugin,8FNBD3CLEE,30.48,3,0,7.9248
+452,EMEA-2022-166674,4/2/2022,20220402,Cameron MacLeod,United Kingdom,Cardiff,EMEA,UKIR,Mondelez International,1067,Consumer Products,SMB,ChatBot Plugin,YZVMO7CK2W,9.84,3,0,2.8536
+453,EMEA-2022-166674,4/2/2022,20220402,Cameron MacLeod,United Kingdom,Cardiff,EMEA,UKIR,Mondelez International,1067,Consumer Products,SMB,Site Analytics,HQ392IW1QI,35.12,4,0,9.1312
+454,AMER-2023-147277,10/21/2023,20231021,Hannah Sanderson,Mexico,Guadalajara,AMER,LATAM,Verizon Communications,1094,Communications,Strategic,ContactMatcher,P0L5R98TF2,284.364,2,0.4,-75.8304
+455,AMER-2023-147277,10/21/2023,20231021,Hannah Sanderson,Mexico,Guadalajara,AMER,LATAM,Verizon Communications,1094,Communications,Strategic,Marketing Suite - Gold,01QQ2UNMCX,665.408,2,0.2,66.5408
+456,APJ-2022-100153,12/14/2022,20221214,Sebastian Brown,Singapore,Singapore,APJ,APAC,Phillips 66,1056,Energy,Strategic,Data Smasher,7H0O1X5S1R,63.88,4,0,24.9132
+457,AMER-2020-110674,2/13/2020,20200213,Deirdre McDonald,United States,Columbus,AMER,NAMER,Anthem,1029,Healthcare,SMB,FinanceHub,S46B8II7DP,129.568,2,0.2,-24.294
+458,APJ-2022-157945,9/27/2022,20220927,Sean Rees,Australia,Melbourne,APJ,ANZ,Walgreens,1095,Retail,SMB,FinanceHub,WFOUQWH7NC,747.558,3,0.3,-96.1146
+459,APJ-2022-157945,9/27/2022,20220927,Sean Rees,Australia,Melbourne,APJ,ANZ,Walgreens,1095,Retail,SMB,SaaS Connector Pack - Gold,KNKFG8JEPJ,8.928,2,0.2,3.348
+460,AMER-2021-109638,12/15/2021,20211215,Rebecca Wilson,Canada,Toronto,AMER,NAMER,Morgan Stanley,1068,Finance,SMB,OneView,O1OCMFCX2E,103.92,4,0,36.372
+461,AMER-2021-109638,12/15/2021,20211215,Rebecca Wilson,Canada,Toronto,AMER,NAMER,Morgan Stanley,1068,Finance,SMB,Data Smasher,OTWMW48UC0,899.91,9,0,377.9622
+462,AMER-2021-109638,12/15/2021,20211215,Rebecca Wilson,Canada,Toronto,AMER,NAMER,Morgan Stanley,1068,Finance,SMB,ContactMatcher,W8TV0WGUZC,51.312,3,0.2,18.6006
+463,AMER-2022-109869,4/23/2022,20220423,Diane Metcalfe,Chile,Santiago,AMER,LATAM,Itochu,1032,Finance,Enterprise,SaaS Connector Pack,HATW4IWMKQ,23.56,5,0.2,7.068
+464,AMER-2022-109869,4/23/2022,20220423,Diane Metcalfe,Chile,Santiago,AMER,LATAM,Itochu,1032,Finance,Enterprise,ContactMatcher,FFPY4CLSQZ,1272.63,6,0.5,-814.4832
+465,AMER-2022-109869,4/23/2022,20220423,Diane Metcalfe,Chile,Santiago,AMER,LATAM,Itochu,1032,Finance,Enterprise,ContactMatcher,QW5CL8KX56,28.485,5,0.7,-20.889
+466,AMER-2022-109869,4/23/2022,20220423,Diane Metcalfe,Chile,Santiago,AMER,LATAM,Itochu,1032,Finance,Enterprise,Support,CBKDTQAK36,185.376,2,0.2,-34.758
+467,AMER-2022-109869,4/23/2022,20220423,Diane Metcalfe,Chile,Santiago,AMER,LATAM,Itochu,1032,Finance,Enterprise,OneView,MA687E1NYP,78.272,2,0.2,5.8704
+468,APJ-2021-101399,1/17/2021,20210117,Dylan Mills,Australia,Melbourne,APJ,ANZ,Exxon Mobil,1034,Energy,Enterprise,SaaS Connector Pack,BJ5FKY562X,254.744,7,0.6,-312.0614
+469,APJ-2023-154907,4/1/2023,20230401,Joe Ross,Japan,Fukuoka,APJ,JAPN,Wells Fargo,1099,Finance,Strategic,Marketing Suite,MEO9WRJISD,205.3328,2,0.32,-36.2352
+470,APJ-2022-100419,12/17/2022,20221217,Sally Davidson,Australia,Sydney,APJ,ANZ,Goldman Sachs Group,1042,Finance,SMB,ContactMatcher,G24D8NSIS5,4.788,3,0.8,-7.9002
+471,EMEA-2021-154144,12/20/2021,20211220,Diane Mills,United Kingdom,Birmingham,EMEA,UKIR,General Motors,1041,Manufacturing,Strategic,Support,1UQRFN6NJF,55.48,1,0,26.6304
+472,AMER-2020-144666,11/9/2020,20201109,Oliver Bond,United States,Los Angeles,AMER,NAMER,UnitedHealth Group,1092,Healthcare,SMB,Marketing Suite - Gold,HVTQST31SQ,340.92,3,0,3.4092
+473,AMER-2020-144666,11/9/2020,20201109,Oliver Bond,United States,Los Angeles,AMER,NAMER,UnitedHealth Group,1092,Healthcare,SMB,Marketing Suite,053FQGSSSZ,222.666,2,0.15,10.4784
+474,AMER-2020-144666,11/9/2020,20201109,Oliver Bond,United States,Los Angeles,AMER,NAMER,UnitedHealth Group,1092,Healthcare,SMB,Site Analytics,4O2IR9MYMV,703.968,4,0.2,87.996
+475,AMER-2020-144666,11/9/2020,20201109,Oliver Bond,United States,Los Angeles,AMER,NAMER,UnitedHealth Group,1092,Healthcare,SMB,Marketing Suite - Gold,YKP1SWMKRJ,92.52,6,0,24.9804
+476,AMER-2020-144666,11/9/2020,20201109,Oliver Bond,United States,Los Angeles,AMER,NAMER,UnitedHealth Group,1092,Healthcare,SMB,Support,WRZ1TRZRR3,62.65,7,0,28.819
+477,AMER-2020-144666,11/9/2020,20201109,Oliver Bond,United States,Los Angeles,AMER,NAMER,UnitedHealth Group,1092,Healthcare,SMB,Support,23LE48CR36,94.85,5,0,45.528
+478,AMER-2022-103891,7/13/2022,20220713,Zoe Avery,United States,New York City,AMER,NAMER,Apple,1008,Tech,Strategic,Site Analytics,YIE0GEFRD7,95.76,6,0.2,7.182
+479,EMEA-2022-152632,10/28/2022,20221028,Stewart Hart,United Kingdom,Brighton,EMEA,UKIR,Nestle,1089,Consumer Products,SMB,SaaS Connector Pack,3RCQJV7NDU,40.2,3,0,19.296
+480,EMEA-2022-100790,6/27/2022,20220627,Alexander James,United Kingdom,London,EMEA,UKIR,Daimler,1052,Transportation,Strategic,ChatBot Plugin,8TZPM6WZVP,14.7,5,0,6.615
+481,EMEA-2022-100790,6/27/2022,20220627,Alexander James,United Kingdom,London,EMEA,UKIR,Daimler,1052,Transportation,Strategic,Marketing Suite - Gold,T43ZUTNR82,704.25,5,0,84.51
+482,AMER-2020-134677,10/6/2020,20201006,Warren Hemmings,United States,Seattle,AMER,NAMER,Prudential Financial,1078,Finance,SMB,Data Smasher,47ZPTGTX5P,9.09,3,0,1.9089
+483,EMEA-2020-127691,7/22/2020,20200722,Maria Bell,United Kingdom,London,EMEA,UKIR,State Farm Insurance Cos.,1082,Finance,SMB,ChatBot Plugin,U7VC6ULA7B,5.96,2,0,1.6688
+484,EMEA-2020-127691,7/22/2020,20200722,Maria Bell,United Kingdom,London,EMEA,UKIR,State Farm Insurance Cos.,1082,Finance,SMB,Data Smasher,3HLKDHTUB2,159.98,2,0,57.5928
+485,AMER-2023-140963,6/11/2023,20230611,Alison Fisher,United States,New York City,AMER,NAMER,Sony,1028,Tech,Enterprise,FinanceHub,NQ8BD6TLCM,29.6,2,0,14.8
+486,AMER-2023-140963,6/11/2023,20230611,Alison Fisher,United States,New York City,AMER,NAMER,Sony,1028,Tech,Enterprise,Marketing Suite,G19PT7HYX0,514.165,5,0.15,-30.245
+487,AMER-2023-140963,6/11/2023,20230611,Alison Fisher,United States,New York City,AMER,NAMER,Sony,1028,Tech,Enterprise,Site Analytics,FMXBJWL00K,279.96,5,0.2,17.4975
+488,APJ-2020-154627,10/29/2020,20201029,Jack Hodges,Australia,Sydney,APJ,ANZ,Chevron,1017,Energy,SMB,Site Analytics,CCMVNRNK50,2735.952,6,0.2,341.994
+489,APJ-2020-133753,6/9/2020,20200609,Una Knox,Japan,Kanagawa,APJ,JAPN,Pemex,1058,Energy,Enterprise,Site Analytics,8TQCC0Z4YO,7.992,1,0.2,0.5994
+490,APJ-2020-133753,6/9/2020,20200609,Una Knox,Japan,Kanagawa,APJ,JAPN,Pemex,1058,Energy,Enterprise,Data Smasher,5T791VWFJF,63.984,2,0.2,10.3974
+491,APJ-2020-133753,6/9/2020,20200609,Una Knox,Japan,Kanagawa,APJ,JAPN,Pemex,1058,Energy,Enterprise,ChatBot Plugin,S5X018G8CS,70.368,2,0.2,6.1572
+492,EMEA-2020-113362,9/14/2020,20200914,Adam James,United Kingdom,Liverpool,EMEA,UKIR,Oracle,1072,Tech,SMB,Marketing Suite - Gold,2WIY14V8BC,449.15,5,0,8.983
+493,EMEA-2020-113362,9/14/2020,20200914,Adam James,United Kingdom,Liverpool,EMEA,UKIR,Oracle,1072,Tech,SMB,SaaS Connector Pack - Gold,C077WMS5SZ,11.07,3,0,5.0922
+494,AMER-2022-169166,5/10/2022,20220510,Connor Watson,Canada,Toronto,AMER,NAMER,Tesco,1059,Retail,SMB,Data Smasher,0ZKC0GWMNX,93.98,2,0,13.1572
+495,EMEA-2022-120929,3/19/2022,20220319,Samantha Murray,South Africa,Cape Town,EMEA,MEA,Morgan Stanley,1068,Finance,SMB,ContactMatcher,NUJDTTEZ8T,189.882,3,0.4,-94.941
+496,EMEA-2021-134782,12/27/2021,20211227,Carol Forsyth,United Arab Emirates,Abu Dhabi,EMEA,MEA,Nestle,1089,Consumer Products,SMB,SaaS Connector Pack - Gold,URZ602GJX6,105.42,2,0,51.6558
+497,AMER-2022-126158,7/26/2022,20220726,Deirdre McDonald,United States,Milwaukee,AMER,NAMER,Anthem,1029,Healthcare,SMB,ContactMatcher,4A3GSMDJQK,119.616,8,0.2,40.3704
+498,AMER-2022-126158,7/26/2022,20220726,Deirdre McDonald,United States,Milwaukee,AMER,NAMER,Anthem,1029,Healthcare,SMB,SaaS Connector Pack,WQL984BNNV,255.76,4,0,81.8432
+499,AMER-2022-126158,7/26/2022,20220726,Deirdre McDonald,United States,Milwaukee,AMER,NAMER,Anthem,1029,Healthcare,SMB,FinanceHub,2QHECG9N6N,241.568,2,0.2,18.1176
+500,AMER-2022-126158,7/26/2022,20220726,Deirdre McDonald,United States,Milwaukee,AMER,NAMER,Anthem,1029,Healthcare,SMB,SaaS Connector Pack,XB6LROUXPU,69.3,9,0,22.869

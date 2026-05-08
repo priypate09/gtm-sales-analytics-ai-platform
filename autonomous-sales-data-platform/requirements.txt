@@ -3,3 +3,5 @@ kaggle
 pyyaml
 python-dotenv
 dbt-duckdb
+openai
+pandas
