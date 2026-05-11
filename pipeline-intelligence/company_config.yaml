@@ -1,0 +1,104 @@
+# ============================================================
+# Pipeline Intelligence System — Company Config
+# gtm-sales-analytics-ai-platform | pipeline-intelligence 
+# All thresholds and paths live here. No hardcoded values in Python.
+# ============================================================
+
+# --- LLM ---
+llm:
+  model: "claude-sonnet-4-5"
+  max_tokens: 2048
+  temperature: 0.2
+
+# --- Data Source ---
+# Switch between "faker" (synthetic) and "sfdc_api" (live Salesforce)
+data_source: "faker"
+
+data_faker:
+  seed: 42
+  num_deals: 20
+
+data_sfdc:
+  api_endpoint: ${SFDC_INSTANCE_URL}
+  client_id: ${SFDC_CLIENT_ID}
+  client_secret: ${SFDC_CLIENT_SECRET}
+  username: ${SFDC_USERNAME}
+
+data_kaggle:
+  dataset: ${KAGGLE_DATASET_SLUG}
+  api_key: ${KAGGLE_API_KEY}
+
+# --- Data Paths ---
+paths:
+  synthetic:
+    sfdc_opportunities: "data/synthetic/sfdc_opportunities.csv"
+    gong_transcripts: "data/synthetic/gong_transcripts.json"
+    email_threads: "data/synthetic/email_threads.csv"
+    sfdc_activity_log: "data/synthetic/sfdc_activity_log.csv"
+  sample:
+    sfdc_opportunities: "data/sample/sfdc_opportunities.csv"
+    gong_transcripts: "data/sample/gong_transcripts.json"
+    email_threads: "data/sample/email_threads.csv"
+    sfdc_activity_log: "data/sample/sfdc_activity_log.csv"
+  outputs:
+    deal_health_report: "outputs/sample_deal_health_report.md"
+  chroma_db: "chroma_db/"
+
+# --- RAG ---
+rag:
+  embedding_model: "sentence-transformers/all-MiniLM-L6-v2"
+  chunk_size_tokens: 300
+  chunk_overlap_tokens: 30
+  collection_name: "pipeline_intel_docs"
+  top_k: 5
+
+# --- Scoring Thresholds ---
+scoring:
+  handoff_trigger: 0.65          # slip_risk_score above this → Forecast Specialist Agent
+  activity_gap_days: 14          # gap longer than this → engagement penalty
+  sentiment_decline_threshold: -0.3  # trajectory score below this → sentiment risk flag
+  deal_health_weights:
+    engagement: 0.40
+    sentiment: 0.35
+    activity_recency: 0.25
+
+# --- Guardrails ---
+guardrails:
+  pii_patterns:
+    - "email"
+    - "phone"
+    - "contact_name"
+    - "prospect_name"
+  blocked_topics:
+    - "HR"
+    - "payroll"
+    - "finance"
+    - "personal"
+    - "general chat"
+
+# --- Pipeline Stages (SFDC standard) ---
+pipeline_stages:
+  - "Prospecting"
+  - "Qualification"
+  - "Discovery"
+  - "Solution"
+  - "Proposal"
+  - "Negotiation"
+  - "Closed Won"
+  - "Closed Lost"
+
+# --- Activity Types ---
+activity_types:
+  - "Call"
+  - "Email"
+  - "Meeting"
+  - "Demo"
+  - "Follow-up"
+
+# --- Contact Roles ---
+contact_roles:
+  - "Champion"
+  - "Economic Buyer"
+  - "Technical Buyer"
+  - "Influencer"
+  - ""   # blank = champion departure signal

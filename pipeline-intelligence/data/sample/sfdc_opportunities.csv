@@ -1,0 +1,6 @@
+deal_id,stage,close_date,arr,rep_name,account_name
+DEAL-1000,Proposal,2026-05-23,200000,Allison Hill,Taylor Inc
+DEAL-1001,Negotiation,2026-05-15,150000,Stephanie Miller,Johnson-Davis
+DEAL-1002,Solution,2026-04-17,25000,Lance Hoffman,"Santos, Gardner and Robinson"
+DEAL-1003,Proposal,2026-07-21,50000,Rhonda Smith,Wolfe LLC
+DEAL-1004,Proposal,2026-04-14,150000,Daniel Gallagher,Davis Inc

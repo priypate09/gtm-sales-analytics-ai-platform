@@ -1,0 +1,82 @@
+[
+  {
+    "deal_id": "DEAL-1000",
+    "call_date": "2026-04-06",
+    "call_num": 1,
+    "turn_num": 1,
+    "speaker": "Monica (Rep)",
+    "turn_text": "Happy to loop in our solutions engineer if that would help unblock the technical review."
+  },
+  {
+    "deal_id": "DEAL-1000",
+    "call_date": "2026-04-06",
+    "call_num": 1,
+    "turn_num": 2,
+    "speaker": "Kenneth (Buyer)",
+    "turn_text": "Yeah I saw your follow-up \u2014 I'll loop in our IT lead and get you an answer this week."
+  },
+  {
+    "deal_id": "DEAL-1000",
+    "call_date": "2026-04-06",
+    "call_num": 1,
+    "turn_num": 3,
+    "speaker": "Monica (Rep)",
+    "turn_text": "Just checking in \u2014 any update from your side on the internal review?"
+  },
+  {
+    "deal_id": "DEAL-1000",
+    "call_date": "2026-04-06",
+    "call_num": 1,
+    "turn_num": 4,
+    "speaker": "Kenneth (Buyer)",
+    "turn_text": "Timeline is honestly a bit up in the air right now \u2014 there's some internal stuff going on."
+  },
+  {
+    "deal_id": "DEAL-1000",
+    "call_date": "2026-04-06",
+    "call_num": 1,
+    "turn_num": 5,
+    "speaker": "Monica (Rep)",
+    "turn_text": "Can we get 30 minutes on the calendar with your IT lead? I think one call would close the loop."
+  },
+  {
+    "deal_id": "DEAL-1000",
+    "call_date": "2026-04-06",
+    "call_num": 1,
+    "turn_num": 6,
+    "speaker": "Kenneth (Buyer)",
+    "turn_text": "Let me check with my team and get back to you \u2014 maybe early next week?"
+  },
+  {
+    "deal_id": "DEAL-1000",
+    "call_date": "2026-03-22",
+    "call_num": 2,
+    "turn_num": 1,
+    "speaker": "Danielle (Rep)",
+    "turn_text": "I heard back from our legal team \u2014 they're fine with the liability cap language you proposed."
+  },
+  {
+    "deal_id": "DEAL-1000",
+    "call_date": "2026-03-22",
+    "call_num": 2,
+    "turn_num": 2,
+    "speaker": "Chelsea (Buyer)",
+    "turn_text": "The evaluation committee met and there are some concerns around the integration lift. It's more than we thought."
+  },
+  {
+    "deal_id": "DEAL-1000",
+    "call_date": "2026-03-22",
+    "call_num": 2,
+    "turn_num": 3,
+    "speaker": "Danielle (Rep)",
+    "turn_text": "Happy to loop in our solutions engineer if that would help unblock the technical review."
+  },
+  {
+    "deal_id": "DEAL-1000",
+    "call_date": "2026-03-22",
+    "call_num": 2,
+    "turn_num": 4,
+    "speaker": "Chelsea (Buyer)",
+    "turn_text": "So \u2014 and I probably should have told you sooner \u2014 our main champion just left the company last week."
+  }
+]
