@@ -1,3 +1,13 @@
+# shared across all projects
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
 # Cursor and Claude — never commit
 .cursorrules
 CLAUDE.md

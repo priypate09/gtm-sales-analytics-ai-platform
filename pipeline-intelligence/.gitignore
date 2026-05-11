@@ -1,0 +1,14 @@
+# P1 specific
+data/synthetic/
+chroma_db/
+CLAUDE.md
+.env
+*.pem
+*.key
+.pytest_cache/
+.coverage
+htmlcov/
+outputs/*.md
+outputs/*.json
+!outputs/sample_deal_health_report.md
+
