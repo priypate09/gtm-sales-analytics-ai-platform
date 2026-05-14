@@ -56,6 +56,9 @@ rag:
 scoring:
   handoff_trigger: 0.65          # slip_risk_score above this → Forecast Specialist Agent
   activity_gap_days: 14          # gap longer than this → engagement penalty
+  activity_engagement_weights:
+    recency: 0.5
+    volume: 0.5
   sentiment_decline_threshold: -0.3  # trajectory score below this → sentiment risk flag
   deal_health_weights:
     engagement: 0.40
