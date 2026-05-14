@@ -60,6 +60,25 @@ scoring:
     recency: 0.5
     volume: 0.5
   sentiment_decline_threshold: -0.3  # trajectory score below this → sentiment risk flag
+  sentiment:
+    positive_words:
+      - "happy"
+      - "fine"
+      - "great"
+      - "aligned"
+      - "progress"
+      - "help"
+      - "excited"
+      - "genuinely"
+    negative_words:
+      - "concern"
+      - "worried"
+      - "delay"
+      - "risk"
+      - "pause"
+      - "left"
+      - "up in the air"
+      - "honestly"
   deal_health_weights:
     engagement: 0.40
     sentiment: 0.35
