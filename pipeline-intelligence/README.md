@@ -3,3 +3,5 @@
 | Stage 3 | rag - embedd and retrive | Complete
 | Stage 4 | deal intel agent | Complete
 | Stage 5 & 6 | agtivity signal and sentiment | Complete
+| Stage 7 | guardrails | Completed
+| Stage 8 | forecast specialist agent | Complete
