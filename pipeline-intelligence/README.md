@@ -2,3 +2,4 @@
 | Stage 2 | Pipeline Data Agent | Complete |
 | Stage 3 | rag - embedd and retrive | Complete
 | Stage 4 | deal intel agent | Complete
+| Stage 5 & 6 | agtivity signal and sentiment | Complete
