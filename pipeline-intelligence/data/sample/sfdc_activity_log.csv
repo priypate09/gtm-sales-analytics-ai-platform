@@ -1,6 +1,6 @@
 deal_id,activity_type,activity_date,contact_role
-DEAL-1000,Call,2026-04-18,
-DEAL-1000,Email,2026-04-25,Economic Buyer
-DEAL-1000,Call,2026-04-25,Influencer
-DEAL-1001,Meeting,2026-04-24,Technical Buyer
-DEAL-1001,Email,2026-04-21,Champion
+DEAL-1000,Call,2026-04-28,
+DEAL-1000,Email,2026-05-05,Economic Buyer
+DEAL-1000,Call,2026-05-05,Influencer
+DEAL-1001,Meeting,2026-05-04,Technical Buyer
+DEAL-1001,Email,2026-05-01,Champion

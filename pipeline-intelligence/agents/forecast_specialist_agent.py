@@ -1,7 +1,6 @@
 """Forecast adjustment markdown for deals handed off when slip_risk exceeds threshold."""
 
 import os
-from datetime import datetime, timezone
 from pathlib import Path
 
 import yaml
@@ -24,7 +23,7 @@ def load_company_config(root: Path) -> dict:
 
 def _agent_fail(agent: str, msg: str, n: int = 0) -> dict:
     return {"success": False, "agent": agent, "message": msg, "handoff_count": n,
-            "report_path": None, "markdown": "", "deals": []}
+            "markdown": "", "deals": []}
 
 
 def _deal_row(did: str, slip_f: float | None, llm_ok: bool, md: str, msg: str) -> dict:
@@ -82,14 +81,12 @@ def run_forecast_specialist_agent(handoffs: list[dict], root: Path | None = None
     try:
         config = load_company_config(base)
         trigger = float(config["scoring"]["handoff_trigger"])
-        report_path = (base / config["paths"]["outputs"]["deal_health_report"]).resolve()
     except (KeyError, TypeError, ValueError, OSError) as e:
         msg = f"config error: {e}"
         print(f"[ForecastSpecialist] {msg}")
         return _agent_fail(agent, msg, len(handoffs))
 
     deals_out, sections, ok_count = [], [], 0
-    ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     for h in handoffs:
         did = str(h.get("deal_id", "")).strip()
         if not did:
@@ -120,12 +117,7 @@ def run_forecast_specialist_agent(handoffs: list[dict], root: Path | None = None
             print(f"[ForecastSpecialist] LLM failed for {did}: {err}")
             deals_out.append(_deal_row(did, slip_f, False, "", err))
 
-    markdown = ""
-    if sections:
-        markdown = f"# Deal health — forecast adjustments\n\nGenerated: {ts}\n\n" + "\n\n---\n\n".join(sections)
-        report_path.parent.mkdir(parents=True, exist_ok=True)
-        report_path.write_text(markdown, encoding="utf-8")
-        print(f"[ForecastSpecialist] wrote {report_path}")
+    markdown = "\n\n---\n\n".join(sections) if sections else ""
     msg = f"generated {ok_count}/{len(deals_out)} forecast adjustment(s)"
     print(f"[ForecastSpecialist] {msg}")
     return {
@@ -133,7 +125,6 @@ def run_forecast_specialist_agent(handoffs: list[dict], root: Path | None = None
         "agent": agent,
         "message": msg,
         "handoff_count": len(handoffs),
-        "report_path": str(report_path) if sections else None,
         "markdown": markdown,
         "deals": deals_out,
     }
