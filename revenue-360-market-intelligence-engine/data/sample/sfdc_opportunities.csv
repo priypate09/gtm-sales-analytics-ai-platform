@@ -1,0 +1,16 @@
+opportunity_id,segment,account_name,arr,stage,win_loss_reason
+OPP-4868911,Enterprise,Sanchez-Stanley,441806,Closed Lost,Won on product fit
+OPP-4475637,Enterprise,"Thomas, Conway and Miller",289365,Closed Won,Won on product fit
+OPP-5150039,Enterprise,Reeves LLC,394937,Closed Won,Won on product fit
+OPP-8647906,Enterprise,Weaver PLC,268809,Closed Won,Lost due to missing feature
+OPP-7433126,Enterprise,Hill-Pearson,677994,Closed Won,Lost due to implementation risk
+OPP-2069598,Mid-Market,Lee-Stanley,131503,Closed Won,Won with executive alignment
+OPP-3894640,Mid-Market,Hayes Ltd,78179,Closed Won,Won with executive alignment
+OPP-9204347,Mid-Market,Osborne PLC,199641,Closed Won,Lost to competitor pricing
+OPP-1150572,Mid-Market,"Duncan, Ferguson and Livingston",96439,Closed Lost,Lost to competitor pricing
+OPP-5641886,Mid-Market,Allen-Harris,139389,Closed Won,Lost to competitor pricing
+OPP-5899479,SMB,Cruz-Schneider,8333,Closed Lost,Lost to competitor pricing
+OPP-7679787,SMB,"Davis, Williams and York",44924,Closed Won,Lost due to implementation risk
+OPP-4818958,SMB,White Inc,14325,Closed Won,Lost due to missing feature
+OPP-9638207,SMB,"Richardson, Parrish and Jenkins",40880,Closed Lost,Lost due to implementation risk
+OPP-4801447,SMB,Savage-Reed,16318,Closed Lost,Lost to competitor pricing
