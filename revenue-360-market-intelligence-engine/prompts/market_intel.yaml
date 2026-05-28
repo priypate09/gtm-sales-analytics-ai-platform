@@ -1,0 +1,4 @@
+market_intel_prompt: |
+  Placeholder prompt for market intelligence retrieval.
+version: 1
+objective: gather segment benchmark growth context

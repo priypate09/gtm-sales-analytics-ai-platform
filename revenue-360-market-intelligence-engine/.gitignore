@@ -1,0 +1,28 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment files
+.env
+
+# Outputs
+outputs/*.tmp
+
+# Synthetic data generated locally
+data/synthetic/*
+!data/synthetic/.gitkeep
+
+# Keep representative sample data in git
+!data/sample/
+!data/sample/**

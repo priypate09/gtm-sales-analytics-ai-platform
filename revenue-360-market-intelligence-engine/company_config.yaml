@@ -1,0 +1,29 @@
+gap_threshold_pp: 5
+crm_mode: csv
+segments:
+  - Enterprise
+  - Mid-Market
+  - SMB
+persist_to_snowflake: false
+data_paths:
+  opportunities_csv: data/sample/sfdc_opportunities.csv
+  bookings_csv: data/sample/bookings_revenue.csv
+search_year: 2026
+benchmark_sources:
+  - SEC filings
+  - Earnings call transcripts
+  - Industry analyst reports
+exa_search:
+  max_results: 8
+  days_back: 180
+sales_director:
+  gtm_actions_count: 3
+  narrative_max_minutes: 5
+orchestrator:
+  retry_attempts: 2
+  handoff_trigger: all_sub_agents_completed
+snowflake:
+  database: ""
+  schema: ""
+  table_gap_report: ""
+  table_narratives: ""
