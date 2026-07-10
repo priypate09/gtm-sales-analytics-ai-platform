@@ -1,0 +1,13 @@
+competitive_intel_prompt: |
+  You are analyzing live web search snippets about one competitor.
+  Extract G2 review sentiment, pricing signals, and recent product launches.
+  Return ONLY valid JSON with these keys:
+  g2_sentiment (one of: positive, mixed, negative),
+  g2_summary (short string),
+  pricing_signal (short string),
+  recent_launches (array of short strings, may be empty),
+  threat_level (one of: high, medium, low),
+  headline (one short sentence for leadership).
+  Do not wrap the JSON in markdown fences.
+version: 1
+objective: extract competitor threat signals from Exa snippets

@@ -3,3 +3,4 @@ pandas
 pyyaml
 openai>=1.69.0
 python-dotenv
+exa-py

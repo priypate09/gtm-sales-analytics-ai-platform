@@ -18,6 +18,14 @@ benchmark_sources:
 exa_search:
   max_results: 8
   days_back: 180
+competitive_intel:
+  top_n_competitors: 3
+data_generation:
+  competitor_pool:
+    - RivalForce
+    - Northstar CRM
+    - PulseIQ
+    - Acme Analytics
 sales_director:
   gtm_actions_count: 3
   narrative_max_minutes: 5
