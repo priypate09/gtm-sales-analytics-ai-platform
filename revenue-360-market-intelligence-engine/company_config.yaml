@@ -9,6 +9,8 @@ data_paths:
   opportunities_csv: data/sample/sfdc_opportunities.csv
   bookings_csv: data/sample/bookings_revenue.csv
 search_year: 2026
+openai:
+  model: gpt-4o
 benchmark_sources:
   - SEC filings
   - Earnings call transcripts

@@ -1,4 +1,10 @@
 market_intel_prompt: |
-  Placeholder prompt for market intelligence retrieval.
+  Search the public web for the industry ARR growth rate benchmark for the
+  given SaaS customer segment and year. Prefer the listed source types.
+  Return ONLY valid JSON with these keys:
+  benchmark_growth_pct (number, percent points e.g. 12.0),
+  source_summary (short string citing where the figure came from),
+  confidence (one of: high, medium, low).
+  Do not wrap the JSON in markdown fences.
 version: 1
 objective: gather segment benchmark growth context
