@@ -33,7 +33,6 @@ orchestrator:
   retry_attempts: 2
   handoff_trigger: all_sub_agents_completed
 snowflake:
-  database: ""
-  schema: ""
-  table_gap_report: ""
-  table_narratives: ""
+  database: REVENUE360
+  schema: PUBLIC
+  table_runs: REVENUE360_RUNS

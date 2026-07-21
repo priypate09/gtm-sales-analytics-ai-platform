@@ -10,6 +10,7 @@ from agents.competitive_intel_agent import run as run_competitive_intel
 from agents.crm_sync_agent import run as run_crm_sync
 from agents.market_intel_agent import run as run_market_intel
 from agents.sales_director_agent import run as run_sales_director
+from tools.snowflake_writer import write as write_snowflake
 
 AGENT = "revenue_360_orchestrator"
 ROOT = Path(__file__).resolve().parents[1]
@@ -96,10 +97,22 @@ async def _run_async(config_path: Path | None = None) -> dict:
             "message": f"Sales Director failed: {sales.get('message')}",
             "data": _assemble(crm, market, competitive, sales, config),
         }
+    assembled = _assemble(crm, market, competitive, sales, config)
+    # Best-effort: dry-run or write failure must not fail an already-successful run.
+    try:
+        snowflake = write_snowflake(assembled, config)
+    except Exception as exc:
+        print(f"[Revenue 360] Snowflake persistence raised: {exc}")
+        snowflake = {"success": False, "tool": "snowflake_writer", "message": str(exc), "data": {}}
+    assembled["meta"]["snowflake"] = {
+        "success": snowflake.get("success"),
+        "message": snowflake.get("message"),
+        **(snowflake.get("data") or {}),
+    }
     print("[Revenue 360] Pipeline complete")
     return {
         "success": True, "agent": AGENT, "message": "Revenue 360 pipeline complete",
-        "data": _assemble(crm, market, competitive, sales, config),
+        "data": assembled,
     }
 
 
