@@ -68,6 +68,7 @@ def build_opportunities(
 
 
 def build_bookings(opportunities: pd.DataFrame, rng: random.Random) -> pd.DataFrame:
+    """Allocate booked ARR so any opportunity subset keeps designed Q1→Q4 YoY."""
     base_by_segment = {"Enterprise": 4_000_000, "Mid-Market": 2_000_000, "SMB": 900_000}
     rows: list[dict] = []
     for segment, df in opportunities.groupby("segment"):
@@ -79,9 +80,10 @@ def build_bookings(opportunities: pd.DataFrame, rng: random.Random) -> pd.DataFr
             start_value * (1 + (2 * growth) / 3),
             start_value * (1 + growth),
         ]
+        # One weight vector per opp across quarters — sample subsets keep design YoY.
+        weights = [rng.random() for _ in range(len(df))]
+        weight_sum = sum(weights)
         for quarter, quarter_total in zip(QUARTERS, quarter_values):
-            weights = [rng.random() for _ in range(len(df))]
-            weight_sum = sum(weights)
             for (_, row), weight in zip(df.iterrows(), weights):
                 rows.append(
                     {
